@@ -24,7 +24,6 @@ def scrape_chess_openings(url):
 
         return opening_names, opening_images
 
-        return openings_list
     else:
         print('Failed to retrieve page:', response.status_code)
         return None
