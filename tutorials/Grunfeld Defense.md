@@ -8,7 +8,7 @@
 
 [The Grünfeld Defence - Chess Openings Explained](https://www.youtube.com/watch?v=pHBHoXrbXhg)
 
-[Win With The Grünfeld Defense | Chess Lesson # 193](https://www.youtube.com/watch?v=R0Wcwkfqpwg)
+[Win With The Grünfeld Defense \| Chess Lesson \# 193](https://www.youtube.com/watch?v=R0Wcwkfqpwg)
 
-[This will change your understanding of the Grunfeld Defence | Small Opening Mistake](https://www.youtube.com/watch?v=MCd2vBnUz9s)
+[This will change your understanding of the Grunfeld Defence \| Small Opening Mistake](https://www.youtube.com/watch?v=MCd2vBnUz9s)
 

@@ -10,5 +10,5 @@
 
 [The Albin Counter-Gambit · Chess Openings](https://www.youtube.com/watch?v=drRFTPODZlA)
 
-[How To Play The Albin Counter Gambit | Chess Tutorial](https://www.youtube.com/watch?v=KlqFTbuWxTE)
+[How To Play The Albin Counter Gambit \| Chess Tutorial](https://www.youtube.com/watch?v=KlqFTbuWxTE)
 

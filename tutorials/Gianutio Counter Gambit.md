@@ -8,7 +8,7 @@
 
 [Chess Openings: The Queen's Gambit](https://www.youtube.com/watch?v=HdHWAuQRG7E)
 
-[Beating Everyone with the Same Opening Trap (Stafford Gambit)](https://www.youtube.com/watch?v=16Q6Po-s6Gs)
+[Beating Everyone with the Same Opening Trap \(Stafford Gambit\)](https://www.youtube.com/watch?v=16Q6Po-s6Gs)
 
-[Learn the Evans and Nakhmanson Gambit | 10-Minute Chess Openings](https://www.youtube.com/watch?v=fG52OQytDxc)
+[Learn the Evans and Nakhmanson Gambit \| 10-Minute Chess Openings](https://www.youtube.com/watch?v=fG52OQytDxc)
 

@@ -2,7 +2,7 @@
 
 ---
 
-[Learn the Slav Defense | 10-Minute Chess Openings](https://www.youtube.com/watch?v=cs54KXnGc-0)
+[Learn the Slav Defense \| 10-Minute Chess Openings](https://www.youtube.com/watch?v=cs54KXnGc-0)
 
 [Introduction to the Slav Defense](https://www.youtube.com/watch?v=9RXEvHZmbZU)
 

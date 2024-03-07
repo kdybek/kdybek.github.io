@@ -10,5 +10,5 @@
 
 [How To Learn & Study Chess Openings](https://www.youtube.com/watch?v=6IegDENuxU4)
 
-[Beating Everyone with the Same Opening Trap (Stafford Gambit)](https://www.youtube.com/watch?v=16Q6Po-s6Gs)
+[Beating Everyone with the Same Opening Trap \(Stafford Gambit\)](https://www.youtube.com/watch?v=16Q6Po-s6Gs)
 

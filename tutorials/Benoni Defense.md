@@ -10,5 +10,5 @@
 
 [Introduction to the Benoni Defense](https://www.youtube.com/watch?v=x0TDJK973ms)
 
-[How to play the Benoni Defense | Live chess lesson](https://www.youtube.com/watch?v=kV-IL5bWkoE)
+[How to play the Benoni Defense \| Live chess lesson](https://www.youtube.com/watch?v=kV-IL5bWkoE)
 

@@ -10,5 +10,5 @@
 
 [Chess Openings: Learn to Play the Queen's Gambit!](https://www.youtube.com/watch?v=EWHYgn9fR10)
 
-[Chess Lesson # 50: Queen's Gambit | Chess Openings The Right Way](https://www.youtube.com/watch?v=1n-Eh_wuHAU)
+[Chess Lesson \# 50: Queen's Gambit \| Chess Openings The Right Way](https://www.youtube.com/watch?v=1n-Eh_wuHAU)
 

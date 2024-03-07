@@ -38,18 +38,38 @@ def create_main_page_markdown(opening_names, opening_images, filename):
             f.write(f'![{name}]({image_url})\n\n')
             f.write(f'### [Tutorials](tutorials/{name}.md)\n\n')
 
+
+def escape_markdown(text):
+    escape_dict = {
+        '\\': '\\\\',
+        '*': '\\*',
+        '_': '\\_',
+        '#': '\\#',
+        '[': '\\[',
+        ']': '\\]',
+        '(': '\\(',
+        ')': '\\)',
+        '<': '\\<',
+        '>': '\\>',
+        '|': '\\|'
+    }
+
+    escaped_text = re.sub(r'([\\*_#\[\]<>|()])', lambda match: escape_dict[match.group()], text)
+    return escaped_text
+
 def find_videos(opening):
     results = DDGS().videos(f'{opening} chess tutorial youtube', safesearch='on', max_results=5)
 
-    # Avoid the ratelimit exception (10 seconds may be excesive, but works)
-    time.sleep(10)
+    # Avoid the ratelimit exception
+    time.sleep(6)
 
     titles = []
     links = []
 
     for result in results:
+        escaped_title = escape_markdown(result['title'])
+        titles.append(escaped_title)
         links.append(result['content'])
-        titles.append(result['title'])
 
     return links, titles
 
@@ -65,8 +85,8 @@ def create_page_with_tutorials_markdown(opening):
 
 
 if __name__ == '__main__':
-    url = 'https://www.thechesswebsite.com/chess-openings/'
-    opening_names, opening_images = scrape_chess_openings(url)
+    chess_site_url = 'https://www.thechesswebsite.com/chess-openings/'
+    opening_names, opening_images = scrape_chess_openings(chess_site_url)
     if opening_names and opening_images:
         filename = 'index.md'
         create_main_page_markdown(opening_names, opening_images, filename)

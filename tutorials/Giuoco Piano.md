@@ -4,7 +4,7 @@
 
 [Chess Openings: A Short Introduction to the Giuoco Piano!](https://www.youtube.com/watch?v=BPpSz2rbG3A)
 
-[How to play Italian Game | Giuoco Piano | White Win | Complete Trap and Trick | Gambit](https://www.youtube.com/watch?v=irpCJpkTXJU)
+[How to play Italian Game \| Giuoco Piano \| White Win \| Complete Trap and Trick \| Gambit](https://www.youtube.com/watch?v=irpCJpkTXJU)
 
 [Giuoco Piano in Chess](https://www.youtube.com/watch?v=Bkg3TRGIDZs)
 

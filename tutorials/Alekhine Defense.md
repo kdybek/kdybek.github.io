@@ -2,9 +2,9 @@
 
 ---
 
-[The Alekhine Defense | Chess Opening Tutorial](https://www.youtube.com/watch?v=IFBT9I9JhUs)
+[The Alekhine Defense \| Chess Opening Tutorial](https://www.youtube.com/watch?v=IFBT9I9JhUs)
 
-[Learn Alekhine's Defence (Theory, Traps & Ideas)](https://www.youtube.com/watch?v=AnexVs5_Gl0)
+[Learn Alekhine's Defence \(Theory, Traps & Ideas\)](https://www.youtube.com/watch?v=AnexVs5_Gl0)
 
 [Alekhine defense - a quick tutorial](https://www.youtube.com/watch?v=tpM99VSvorc)
 

@@ -6,7 +6,7 @@
 
 [Chess Lesson: The Reti Opening](https://www.youtube.com/watch?v=YHDlA3nCyl0)
 
-[Learn the RETI Opening (1.Nf3 Complete Guide)](https://www.youtube.com/watch?v=JDWCL-La8tc)
+[Learn the RETI Opening \(1.Nf3 Complete Guide\)](https://www.youtube.com/watch?v=JDWCL-La8tc)
 
 [Chess Openings- Reti Opening](https://www.youtube.com/watch?v=F8OUM7d7rLM)
 

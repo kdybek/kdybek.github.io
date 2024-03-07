@@ -2,9 +2,9 @@
 
 ---
 
-[Learn the Scandinavian Defense in 15 Minutes [Chess Opening Crash Course]](https://www.youtube.com/watch?v=sKoBj-kL0hg)
+[Learn the Scandinavian Defense in 15 Minutes \[Chess Opening Crash Course\]](https://www.youtube.com/watch?v=sKoBj-kL0hg)
 
-[The Full Modern Scandinavian Gambit (Defence) Explained - Opening Tricks and Traps](https://www.youtube.com/watch?v=CBdeCj3_Z2A)
+[The Full Modern Scandinavian Gambit \(Defence\) Explained - Opening Tricks and Traps](https://www.youtube.com/watch?v=CBdeCj3_Z2A)
 
 [Chess Openings: Learn to Play the Scandinavian Defense!](https://www.youtube.com/watch?v=Z1SpeaF2iTg)
 
