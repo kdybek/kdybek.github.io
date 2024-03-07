@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=R1fFb-1QUX8](https://www.youtube.com/watch?v=R1fFb-1QUX8)
+[Chess Openings: Learn to Play the Reti Opening / Reti Gambit!](https://www.youtube.com/watch?v=R1fFb-1QUX8)
 
-[https://www.youtube.com/watch?v=X6quKAZbkuk](https://www.youtube.com/watch?v=X6quKAZbkuk)
+[Chess Openings: Learn to Play the Reti Gambit Against the French Defense!](https://www.youtube.com/watch?v=X6quKAZbkuk)
 
-[https://www.youtube.com/watch?v=fG52OQytDxc](https://www.youtube.com/watch?v=fG52OQytDxc)
+[What is the Reti Opening Tennison Gambit in Chess?](https://www.youtube.com/watch?v=raKOxYyDB5c)
 
-[https://www.youtube.com/watch?v=DE3jh6OnD10](https://www.youtube.com/watch?v=DE3jh6OnD10)
+[Chess Opening: Reti Gambit](https://www.youtube.com/watch?v=vuwbdv-OmG8)
 
-[https://www.youtube.com/watch?v=vuwbdv-OmG8](https://www.youtube.com/watch?v=vuwbdv-OmG8)
+[Learn this chess trap. Réti Gambit](https://www.youtube.com/watch?v=cjHZRmJg5YU)
 

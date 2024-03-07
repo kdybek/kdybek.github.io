@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=CUQQ4dym5ZU](https://www.youtube.com/watch?v=CUQQ4dym5ZU)
+[I Can't Stop Beating Everyone With Gambits](https://www.youtube.com/watch?v=XCANsOz-cT0)
 
-[https://www.youtube.com/watch?v=5T7u3hoGE_E](https://www.youtube.com/watch?v=5T7u3hoGE_E)
+[Beating EVERYONE with Gambits (including a cheater)](https://www.youtube.com/watch?v=DAzCPLo0HWo)
 
-[https://www.youtube.com/watch?v=DAzCPLo0HWo](https://www.youtube.com/watch?v=DAzCPLo0HWo)
+[Winning Quickly with Traps & Attacks | Speedrun Episode 17](https://www.youtube.com/watch?v=lTXAd7ZmB2g)
 
-[https://www.youtube.com/watch?v=Of44HLmqRgI](https://www.youtube.com/watch?v=Of44HLmqRgI)
+[Opening Traps, Gambits, & Rare Ideas MASTERCLASS | ft. Grandmaster Aman Hambleton](https://www.youtube.com/watch?v=D2Rlg3oVPZU)
 
-[https://www.youtube.com/watch?v=XkB4IVNaZWw](https://www.youtube.com/watch?v=XkB4IVNaZWw)
+[A Beginner Lesson in the Stafford Gambit](https://www.youtube.com/watch?v=XkB4IVNaZWw)
 

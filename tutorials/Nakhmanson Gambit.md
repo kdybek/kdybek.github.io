@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=fG52OQytDxc](https://www.youtube.com/watch?v=fG52OQytDxc)
+[Learn the Evans and Nakhmanson Gambit | 10-Minute Chess Openings](https://www.youtube.com/watch?v=fG52OQytDxc)
 
-[https://www.youtube.com/watch?v=F6m8vezHewU](https://www.youtube.com/watch?v=F6m8vezHewU)
+[Nakhmanson Gambit: Chess Opening Traps To WIN FAST | Best Moves, Tricks, Tactics, Strategy & Ideas](https://www.youtube.com/watch?v=F6m8vezHewU)
 
-[https://www.youtube.com/watch?v=tl6_137sqsM](https://www.youtube.com/watch?v=tl6_137sqsM)
+[The Nakhmanson Gambit is SO MUCH FUN](https://www.youtube.com/watch?v=tl6_137sqsM)
 
-[https://www.youtube.com/watch?v=ipqUv-EX26w](https://www.youtube.com/watch?v=ipqUv-EX26w)
+[How Good are Unsound Gambits? A Discussion on the Nakhmanson, Jerome, & More!](https://www.youtube.com/watch?v=ipqUv-EX26w)
 
-[https://www.youtube.com/watch?v=zAajPMY_Q8o](https://www.youtube.com/watch?v=zAajPMY_Q8o)
+[Tricks That Work On 1000 Rated Players](https://www.youtube.com/watch?v=UIjrMzrjreI)
 

@@ -26,47 +26,49 @@ def scrape_chess_openings(url):
 
         return openings_list
     else:
-        print("Failed to retrieve page:", response.status_code)
+        print('Failed to retrieve page:', response.status_code)
         return None
 
 def create_main_page_markdown(opening_names, opening_images, filename):
     with open(filename, 'w', encoding='utf-8-sig') as f:
-        f.write("# List of Chess Openings\n\n")
-        f.write("---\n\n")
+        f.write('# List of Chess Openings\n\n')
+        f.write('---\n\n')
         for name, image_url in zip(opening_names, opening_images):
-            f.write(f"## {name}\n\n")
-            f.write(f"![{name}]({image_url})\n\n")
-            f.write(f"### [Tutorials](tutorials/{name}.md)\n\n")
+            f.write(f'## {name}\n\n')
+            f.write(f'![{name}]({image_url})\n\n')
+            f.write(f'### [Tutorials](tutorials/{name}.md)\n\n')
 
 def find_videos(opening):
-    results = DDGS().videos(f"{opening} chess tutorial youtube", safesearch='on', max_results=5)
+    results = DDGS().videos(f'{opening} chess tutorial youtube', safesearch='on', max_results=5)
 
     # Avoid the ratelimit exception (10 seconds may be excesive, but works)
     time.sleep(10)
 
+    titles = []
     links = []
 
     for result in results:
         links.append(result['content'])
+        titles.append(result['title'])
 
-    return links
+    return links, titles
 
 def create_page_with_tutorials_markdown(opening):
-    with open(f"tutorials/{opening}.md", 'w', encoding='utf-8-sig') as f:
-        f.write(f"# {opening} Tutorials\n\n")
-        f.write("---\n\n")
+    with open(f'tutorials/{opening}.md', 'w', encoding='utf-8-sig') as f:
+        f.write(f'# {opening} Tutorials\n\n')
+        f.write('---\n\n')
 
-        links = find_videos(opening)
+        links, titles = find_videos(opening)
 
-        for link in links:
-            f.write(f"[{link}]({link})\n\n")
+        for link, title in zip(links, titles):
+            f.write(f'[{title}]({link})\n\n')
 
 
-if __name__ == "__main__":
-    url = "https://www.thechesswebsite.com/chess-openings/"
+if __name__ == '__main__':
+    url = 'https://www.thechesswebsite.com/chess-openings/'
     opening_names, opening_images = scrape_chess_openings(url)
     if opening_names and opening_images:
-        filename = "index.md"
+        filename = 'index.md'
         create_main_page_markdown(opening_names, opening_images, filename)
 
         for opening in opening_names:

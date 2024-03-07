@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=QJULT4tyq2I](https://www.youtube.com/watch?v=QJULT4tyq2I)
+[The Schliemann Gambit Part 1 Introduction! Chess Videos Chesscom](https://www.youtube.com/watch?v=ZElnhIm-TQw)
 
-[https://www.youtube.com/watch?v=D2Rlg3oVPZU](https://www.youtube.com/watch?v=D2Rlg3oVPZU)
+[[INTRO] Learn the Schliemann Defense: Fight the Ruy Lopez as black!](https://www.youtube.com/watch?v=QJULT4tyq2I)
 
-[https://www.youtube.com/watch?v=nH_fiqlLp2U](https://www.youtube.com/watch?v=nH_fiqlLp2U)
+[[Part 6: 4.Nc3] Learn the Schliemann Defense: Fight the Ruy Lopez as black!](https://www.youtube.com/watch?v=gCGlg0vLQL8)
 
-[https://www.youtube.com/watch?v=aYC7mD7tWQM](https://www.youtube.com/watch?v=aYC7mD7tWQM)
+[Top 8 Chess Gambits](https://www.youtube.com/watch?v=Rb8MPAmhEqc)
 
-[https://www.youtube.com/watch?v=XstcVQHz7k0](https://www.youtube.com/watch?v=XstcVQHz7k0)
+[How to Play the Danish Gambit in 3 Minutes | Ultra Aggressive Chess](https://www.youtube.com/watch?v=uIazMeYy5wk)
 

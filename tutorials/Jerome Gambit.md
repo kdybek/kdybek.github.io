@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=Y9jnsoWjY1Q](https://www.youtube.com/watch?v=Y9jnsoWjY1Q)
+[How Good are Unsound Gambits? A Discussion on the Nakhmanson, Jerome, & More!](https://www.youtube.com/watch?v=ipqUv-EX26w)
 
-[https://www.youtube.com/watch?v=pxRQm7nbOfc](https://www.youtube.com/watch?v=pxRQm7nbOfc)
+[How To Destroy Black in 3 Minutes | The Jerome Gambit](https://www.youtube.com/watch?v=Y9jnsoWjY1Q)
 
-[https://www.youtube.com/watch?v=VAQ2OCeTNXA](https://www.youtube.com/watch?v=VAQ2OCeTNXA)
+[What is the Jerome Gambit in Chess?](https://www.youtube.com/watch?v=VAQ2OCeTNXA)
 
-[https://www.youtube.com/watch?v=mJ2_b6fuVtc](https://www.youtube.com/watch?v=mJ2_b6fuVtc)
+[Winning as Quickly as Possible with TRICKY Gambits](https://www.youtube.com/watch?v=KepbhEbqfn0)
 
-[https://www.youtube.com/watch?v=N3AsRny3bpk](https://www.youtube.com/watch?v=N3AsRny3bpk)
+[How to win in Chess | The NEW UNBEATABLE Gambit](https://www.youtube.com/watch?v=N3AsRny3bpk)
 

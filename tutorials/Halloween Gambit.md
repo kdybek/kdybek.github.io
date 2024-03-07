@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=ZXfYnnhTd8o](https://www.youtube.com/watch?v=ZXfYnnhTd8o)
+[HALLOWEEN GAMBIT | My First Chess Game of October 2020](https://www.youtube.com/watch?v=ZXfYnnhTd8o)
 
-[https://www.youtube.com/watch?v=n5ImJ2row6E](https://www.youtube.com/watch?v=n5ImJ2row6E)
+[Chess Openings- The King's Gambit](https://www.youtube.com/watch?v=n5ImJ2row6E)
 
-[https://www.youtube.com/watch?v=AqV-dq64Cg0](https://www.youtube.com/watch?v=AqV-dq64Cg0)
+[Halloween Gambit: How Scary Is It? | Chess Openings Explained](https://www.youtube.com/watch?v=EMIrclu8Lco)
 
-[https://www.youtube.com/watch?v=EMIrclu8Lco](https://www.youtube.com/watch?v=EMIrclu8Lco)
+[NEW CHESS OPENING: THE VAMPIRE GAMBIT](https://www.youtube.com/watch?v=AqV-dq64Cg0)
 
-[https://www.youtube.com/watch?v=_vh0ztdYTws](https://www.youtube.com/watch?v=_vh0ztdYTws)
+[EVERY Chess Gambit for White and Black | Chess Opening Tips](https://www.youtube.com/watch?v=_vh0ztdYTws)
 

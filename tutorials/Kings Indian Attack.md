@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=iaXd4jntUF0](https://www.youtube.com/watch?v=iaXd4jntUF0)
+[Chess Lesson # 79: King's Indian Attack | Chess Openings The Right Way](https://www.youtube.com/watch?v=iaXd4jntUF0)
 
-[https://www.youtube.com/watch?v=N6oAsP-iIao](https://www.youtube.com/watch?v=N6oAsP-iIao)
+[Learn the King's Indian Setup | 10-Minute Chess Openings](https://www.youtube.com/watch?v=kK0cq6UBt1Y)
 
-[https://www.youtube.com/watch?v=TUiOGUADxBI](https://www.youtube.com/watch?v=TUiOGUADxBI)
+[The King's Indian Defense and King's Indian Attack Got Me From 2000 To 2400 | Chess Lesson # 84](https://www.youtube.com/watch?v=N6oAsP-iIao)
 
-[https://www.youtube.com/watch?v=kK0cq6UBt1Y](https://www.youtube.com/watch?v=kK0cq6UBt1Y)
+[How to beat the Kings Indian Attack](https://www.youtube.com/watch?v=Si5Ahz08Q8w)
 
-[https://www.youtube.com/watch?v=QhdoA4EvMzI](https://www.youtube.com/watch?v=QhdoA4EvMzI)
+[Master Class | King's Indian Attack | Chess Speedrun | Grandmaster Naroditsky](https://www.youtube.com/watch?v=knRe3EsANdg)
 

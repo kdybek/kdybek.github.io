@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=GCDHZQlMAWE](https://www.youtube.com/watch?v=GCDHZQlMAWE)
+[The Blackmar-Diemer Gambit · Chess Openings](https://www.youtube.com/watch?v=4IwxHPouUJQ)
 
-[https://www.youtube.com/watch?v=juC-w_7gfqw](https://www.youtube.com/watch?v=juC-w_7gfqw)
+[Chess Openings: Learn to Play the Blackmar-Diemer Gambit!](https://www.youtube.com/watch?v=GCDHZQlMAWE)
 
-[https://www.youtube.com/watch?v=4IwxHPouUJQ](https://www.youtube.com/watch?v=4IwxHPouUJQ)
+[FREE ELO With The Blackmar-Diemer Gambit](https://www.youtube.com/watch?v=mxtUxgupAHY)
 
-[https://www.youtube.com/watch?v=PMpAfhLf2qY](https://www.youtube.com/watch?v=PMpAfhLf2qY)
+[Halosar Trap: Chess Opening TRICK to Win Fast & PUZZLE |Best Checkmate Moves, Game Strategy & Ideas](https://www.youtube.com/watch?v=qSEoyBBgPYc)
 
-[https://www.youtube.com/watch?v=jpVW5iU3gIk](https://www.youtube.com/watch?v=jpVW5iU3gIk)
+[EVERY Chess Gambit for White and Black | Chess Opening Tips](https://www.youtube.com/watch?v=_vh0ztdYTws)
 

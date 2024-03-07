@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=mtsabsZ4wG4](https://www.youtube.com/watch?v=mtsabsZ4wG4)
+[How To Play The Queen's Gambit](https://www.youtube.com/watch?v=mtsabsZ4wG4)
 
-[https://www.youtube.com/watch?v=HdHWAuQRG7E](https://www.youtube.com/watch?v=HdHWAuQRG7E)
+[Chess Openings: The Queen's Gambit](https://www.youtube.com/watch?v=HdHWAuQRG7E)
 
-[https://www.youtube.com/watch?v=oRfGbul6MUs](https://www.youtube.com/watch?v=oRfGbul6MUs)
+[Learn the Queen's Gambit Chess Opening: TRAPS & Errors](https://www.youtube.com/watch?v=oRfGbul6MUs)
 
-[https://www.youtube.com/watch?v=ITQwXN9hXms](https://www.youtube.com/watch?v=ITQwXN9hXms)
+[Chess Openings: Learn to Play the Queen's Gambit!](https://www.youtube.com/watch?v=EWHYgn9fR10)
 
-[https://www.youtube.com/watch?v=EWHYgn9fR10](https://www.youtube.com/watch?v=EWHYgn9fR10)
+[Chess Lesson # 50: Queen's Gambit | Chess Openings The Right Way](https://www.youtube.com/watch?v=1n-Eh_wuHAU)
 

@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=lg4GX8C_grY](https://www.youtube.com/watch?v=lg4GX8C_grY)
+[Chess Openings- Birds Opening](https://www.youtube.com/watch?v=lg4GX8C_grY)
 
-[https://www.youtube.com/watch?v=QYso2oqghpU](https://www.youtube.com/watch?v=QYso2oqghpU)
+[Chess Openings: A Quick Introduction to the Bird's Opening!](https://www.youtube.com/watch?v=J5qNc20njV4)
 
-[https://www.youtube.com/watch?v=vOPD038yarU](https://www.youtube.com/watch?v=vOPD038yarU)
+[BIRD'S OPENING - No-Nonsense Beginner Guide](https://www.youtube.com/watch?v=QYso2oqghpU)
 
-[https://www.youtube.com/watch?v=J5qNc20njV4](https://www.youtube.com/watch?v=J5qNc20njV4)
+[Chess Openings: Learn to Play the Sturm Gambit of the Bird's Opening!](https://www.youtube.com/watch?v=RPSUVP5wlxI)
 
-[https://www.youtube.com/watch?v=YbX1l6qDSaE](https://www.youtube.com/watch?v=YbX1l6qDSaE)
+[Chess Openings: Learn to Play the Bird's Opening!](https://www.youtube.com/watch?v=YbX1l6qDSaE)
 

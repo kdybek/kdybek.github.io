@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=va0s92praEM](https://www.youtube.com/watch?v=va0s92praEM)
+[The English Opening - Chess Openings Explained](https://www.youtube.com/watch?v=_SE4lLEo2Rs)
 
-[https://www.youtube.com/watch?v=_SE4lLEo2Rs](https://www.youtube.com/watch?v=_SE4lLEo2Rs)
+[How to play the English Opening | 10-Minute Chess Openings](https://www.youtube.com/watch?v=va0s92praEM)
 
-[https://www.youtube.com/watch?v=eM6d2etuzZU](https://www.youtube.com/watch?v=eM6d2etuzZU)
+[Learn the English Opening in 15 Minutes [Complete Opening Guide]](https://www.youtube.com/watch?v=eM6d2etuzZU)
 
-[https://www.youtube.com/watch?v=SdJqa9sWwg8](https://www.youtube.com/watch?v=SdJqa9sWwg8)
+[Chess Openings- English](https://www.youtube.com/watch?v=O0hWWfcfEHg)
 
-[https://www.youtube.com/watch?v=49H728S_VjM](https://www.youtube.com/watch?v=49H728S_VjM)
+[Play The English Opening! Chess Lesson # 152](https://www.youtube.com/watch?v=nLy9XN3cAPI)
 

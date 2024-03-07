@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=G8fAtO7-prw](https://www.youtube.com/watch?v=G8fAtO7-prw)
+[The Budapest Gambit | Chess Openings Explained](https://www.youtube.com/watch?v=DVUCnIi7CGA)
 
-[https://www.youtube.com/watch?v=FDvkiG3aWh4](https://www.youtube.com/watch?v=FDvkiG3aWh4)
+[Simple and Deadly Traps in the Budapest Gambit](https://www.youtube.com/watch?v=G8fAtO7-prw)
 
-[https://www.youtube.com/watch?v=DVUCnIi7CGA](https://www.youtube.com/watch?v=DVUCnIi7CGA)
+[Budapest Gambit Traps: Chess Opening Tricks to Win Fast | Best Checkmate Moves, Strategy & Ideas](https://www.youtube.com/watch?v=yuNIYeoAwDs)
 
-[https://www.youtube.com/watch?v=4dakoHO1Qig](https://www.youtube.com/watch?v=4dakoHO1Qig)
+[Chess Openings: Learn to Play the Budapest Gambit!](https://www.youtube.com/watch?v=FDvkiG3aWh4)
 
-[https://www.youtube.com/watch?v=7xGJ0ccmMHw](https://www.youtube.com/watch?v=7xGJ0ccmMHw)
+[Even More Tricks and Traps in the Budapest Gambit](https://www.youtube.com/watch?v=7xGJ0ccmMHw)
 

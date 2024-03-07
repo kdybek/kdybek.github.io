@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=nH_fiqlLp2U](https://www.youtube.com/watch?v=nH_fiqlLp2U)
+[Stafford Gambit, Chess Traps To Win Fast And Easily.](https://www.youtube.com/watch?v=N7Rp9XDji-U)
 
-[https://www.youtube.com/watch?v=jMTWY6ra9Kw](https://www.youtube.com/watch?v=jMTWY6ra9Kw)
+[STAFFORD GAMBIT Chess Tournament!](https://www.youtube.com/watch?v=aYfiH7VwK64)
 
-[https://www.youtube.com/watch?v=FkFYkrAwNjw](https://www.youtube.com/watch?v=FkFYkrAwNjw)
+[The Trappiest Opening in Chess? | Win Quickly with the Stafford Gambit](https://www.youtube.com/watch?v=nH_fiqlLp2U)
 
-[https://www.youtube.com/watch?v=eIecRRl1cfc](https://www.youtube.com/watch?v=eIecRRl1cfc)
+[How to Beat the Stafford Gambit | Speedrun Episode 14](https://www.youtube.com/watch?v=FkFYkrAwNjw)
 
-[https://www.youtube.com/watch?v=XkB4IVNaZWw](https://www.youtube.com/watch?v=XkB4IVNaZWw)
+[A Beginner Lesson in the Stafford Gambit](https://www.youtube.com/watch?v=XkB4IVNaZWw)
 

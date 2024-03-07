@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=dxUuueHFfFs](https://www.youtube.com/watch?v=dxUuueHFfFs)
+[The Unbeatable Urusov Gambit - Chess Openings Explained](https://www.youtube.com/watch?v=dxUuueHFfFs)
 
-[https://www.youtube.com/watch?v=pI1xnER7iio](https://www.youtube.com/watch?v=pI1xnER7iio)
+[How to Play Urusov Gambit (Tricky Weapon) | Chess Opening Traps and Tricks](https://www.youtube.com/watch?v=onxES9YuBig)
 
-[https://www.youtube.com/watch?v=gcAAJZ_NLT8](https://www.youtube.com/watch?v=gcAAJZ_NLT8)
+[Dirty Chess Tricks 15 (Urusov Gambit Accepted)](https://www.youtube.com/watch?v=pI1xnER7iio)
 
-[https://www.youtube.com/watch?v=zM3JhjjjVJE](https://www.youtube.com/watch?v=zM3JhjjjVJE)
+[Chess Tricks: Nakhmanson Gambit = Urusov on Steroids!!](https://www.youtube.com/watch?v=4NIAnwKKSQ0)
 
-[https://www.youtube.com/watch?v=onxES9YuBig](https://www.youtube.com/watch?v=onxES9YuBig)
+[Chess Opening: Urusov Gambit](https://www.youtube.com/watch?v=aktRfAe1Uns)
 

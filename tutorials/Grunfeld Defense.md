@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=R0Wcwkfqpwg](https://www.youtube.com/watch?v=R0Wcwkfqpwg)
+[Chess Openings: Learn to Play the Grunfeld Defense!](https://www.youtube.com/watch?v=n7wI5Z--G0Q)
 
-[https://www.youtube.com/watch?v=pHBHoXrbXhg](https://www.youtube.com/watch?v=pHBHoXrbXhg)
+[Introduction to the Grünfeld Defense](https://www.youtube.com/watch?v=NnkMyb1ThXc)
 
-[https://www.youtube.com/watch?v=NnkMyb1ThXc](https://www.youtube.com/watch?v=NnkMyb1ThXc)
+[The Grünfeld Defence - Chess Openings Explained](https://www.youtube.com/watch?v=pHBHoXrbXhg)
 
-[https://www.youtube.com/watch?v=MCd2vBnUz9s](https://www.youtube.com/watch?v=MCd2vBnUz9s)
+[Win With The Grünfeld Defense | Chess Lesson # 193](https://www.youtube.com/watch?v=R0Wcwkfqpwg)
 
-[https://www.youtube.com/watch?v=n7wI5Z--G0Q](https://www.youtube.com/watch?v=n7wI5Z--G0Q)
+[This will change your understanding of the Grunfeld Defence | Small Opening Mistake](https://www.youtube.com/watch?v=MCd2vBnUz9s)
 

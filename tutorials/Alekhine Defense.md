@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=AnexVs5_Gl0](https://www.youtube.com/watch?v=AnexVs5_Gl0)
+[The Alekhine Defense | Chess Opening Tutorial](https://www.youtube.com/watch?v=IFBT9I9JhUs)
 
-[https://www.youtube.com/watch?v=tpM99VSvorc](https://www.youtube.com/watch?v=tpM99VSvorc)
+[Learn Alekhine's Defence (Theory, Traps & Ideas)](https://www.youtube.com/watch?v=AnexVs5_Gl0)
 
-[https://www.youtube.com/watch?v=w5yZz70Qlk4](https://www.youtube.com/watch?v=w5yZz70Qlk4)
+[Alekhine defense - a quick tutorial](https://www.youtube.com/watch?v=tpM99VSvorc)
 
-[https://www.youtube.com/watch?v=m9onwXH4TAk](https://www.youtube.com/watch?v=m9onwXH4TAk)
+[Chess Openings: Learn to Play the Alekhine's Defense](https://www.youtube.com/watch?v=gwqqecee0hY)
 
-[https://www.youtube.com/watch?v=IFBT9I9JhUs](https://www.youtube.com/watch?v=IFBT9I9JhUs)
+[Alekhine Defense Opening Masterclass](https://www.youtube.com/watch?v=lbMHf80bFb8)
 

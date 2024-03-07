@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=kbCN8Bw_Vf4](https://www.youtube.com/watch?v=kbCN8Bw_Vf4)
+[Chess Openings: Learn to Play the Black Knights' Tango!](https://www.youtube.com/watch?v=kbCN8Bw_Vf4)
 
-[https://www.youtube.com/watch?v=Bgs2Vrr6OAY](https://www.youtube.com/watch?v=Bgs2Vrr6OAY)
+[The Black Knights' Tango - Chess Openings Explained](https://www.youtube.com/watch?v=Bgs2Vrr6OAY)
 
-[https://www.youtube.com/watch?v=WfYrR2fReU0](https://www.youtube.com/watch?v=WfYrR2fReU0)
+[Chess Openings: The Complete Black Knights Tango!! Part 1](https://www.youtube.com/watch?v=WfYrR2fReU0)
 
-[https://www.youtube.com/watch?v=a6dtO0K3Dy8](https://www.youtube.com/watch?v=a6dtO0K3Dy8)
+[Chess Openings: The Complete Black Knights Tango!! Part 2 - 3.Nc3](https://www.youtube.com/watch?v=sj0WRKJsyNw)
 
-[https://www.youtube.com/watch?v=sj0WRKJsyNw](https://www.youtube.com/watch?v=sj0WRKJsyNw)
+[Chess Openings: The Complete Black Knights Tango!! Part 4 - Nimzo Indian](https://www.youtube.com/watch?v=QXxBaAS4eWI)
 

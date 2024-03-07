@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=HdHWAuQRG7E](https://www.youtube.com/watch?v=HdHWAuQRG7E)
+[Chess Openings: The Queen's Gambit](https://www.youtube.com/watch?v=HdHWAuQRG7E)
 
-[https://www.youtube.com/watch?v=ICXoGdCcsFI](https://www.youtube.com/watch?v=ICXoGdCcsFI)
+[CRUSH EVERYONE With The Danish Gambit](https://www.youtube.com/watch?v=Nd7ZiSvdwN8)
 
-[https://www.youtube.com/watch?v=n5ImJ2row6E](https://www.youtube.com/watch?v=n5ImJ2row6E)
+[Beating EVERYONE with Gambits (including a cheater)](https://www.youtube.com/watch?v=DAzCPLo0HWo)
 
-[https://www.youtube.com/watch?v=mtsabsZ4wG4](https://www.youtube.com/watch?v=mtsabsZ4wG4)
+[How To Play The Queen's Gambit](https://www.youtube.com/watch?v=mtsabsZ4wG4)
 
-[https://www.youtube.com/watch?v=5T7u3hoGE_E](https://www.youtube.com/watch?v=5T7u3hoGE_E)
+[Chess Opening Basics | Learn Goring Gambit in 10 Minutes!](https://www.youtube.com/watch?v=i9SLFQlJqHg)
 

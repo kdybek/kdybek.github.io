@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=iGqWsB9RV_o](https://www.youtube.com/watch?v=iGqWsB9RV_o)
+[Chess Openings - Calabrese Countergambit](https://www.youtube.com/watch?v=iGqWsB9RV_o)
 
-[https://www.youtube.com/watch?v=rx81_nJjpPM](https://www.youtube.com/watch?v=rx81_nJjpPM)
+[Beginners' Openings and Tactics - GM Varuzhan Akobian - 2013.01.13](https://www.youtube.com/watch?v=xh4sO1ICS_Q)
 
-[https://www.youtube.com/watch?v=n5ImJ2row6E](https://www.youtube.com/watch?v=n5ImJ2row6E)
+[Albin Countergambit Nuclear Powered Ballistic Missile Submarine Variation](https://www.youtube.com/watch?v=4MqK90Aq8bE)
 
-[https://www.youtube.com/watch?v=AN4gqEqIXm0](https://www.youtube.com/watch?v=AN4gqEqIXm0)
+[5 Brilliant Moves. Brutal Checkmate.](https://www.youtube.com/watch?v=kb7ZvpOQ5YI)
 
-[https://www.youtube.com/watch?v=HTnH3PNVr3U](https://www.youtube.com/watch?v=HTnH3PNVr3U)
+[EVERY Chess Beginner Should Watch This Lesson](https://www.youtube.com/watch?v=00Nfr_FfHwA)
 

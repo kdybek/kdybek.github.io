@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=DAzCPLo0HWo](https://www.youtube.com/watch?v=DAzCPLo0HWo)
+[Learn the Matinovsky Gambit in 5 Minutes!!!](https://www.youtube.com/watch?v=wtZdWdtnhkY)
 
-[https://www.youtube.com/watch?v=B2Z1Mv9CG6M](https://www.youtube.com/watch?v=B2Z1Mv9CG6M)
+[Dirty chess tricks 1 (Matinovsky Gambit)](https://www.youtube.com/watch?v=n-RcBVaxqHo)
 
-[https://www.youtube.com/watch?v=lTXAd7ZmB2g](https://www.youtube.com/watch?v=lTXAd7ZmB2g)
+[Matinovsky Gambit - Chess Opening](https://www.youtube.com/watch?v=bdSnmxhFJ0I)
 
-[https://www.youtube.com/watch?v=fG52OQytDxc](https://www.youtube.com/watch?v=fG52OQytDxc)
+[Chess Tricks: Win Fast with Checkmate in 7 using Matinovsky Gambit!](https://www.youtube.com/watch?v=2Z6Dv7o6jvk)
 
-[https://www.youtube.com/watch?v=XkB4IVNaZWw](https://www.youtube.com/watch?v=XkB4IVNaZWw)
+[chess openings: #3 matinovsky gambit](https://www.youtube.com/watch?v=sZEy2o5rv3s)
 

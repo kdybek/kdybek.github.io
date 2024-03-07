@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=cs54KXnGc-0](https://www.youtube.com/watch?v=cs54KXnGc-0)
+[Learn the Slav Defense | 10-Minute Chess Openings](https://www.youtube.com/watch?v=cs54KXnGc-0)
 
-[https://www.youtube.com/watch?v=9RXEvHZmbZU](https://www.youtube.com/watch?v=9RXEvHZmbZU)
+[Introduction to the Slav Defense](https://www.youtube.com/watch?v=9RXEvHZmbZU)
 
-[https://www.youtube.com/watch?v=v25BEjrkCRE](https://www.youtube.com/watch?v=v25BEjrkCRE)
+[How to CRUSH the Slav Defense](https://www.youtube.com/watch?v=wM2HHfV1KXE)
 
-[https://www.youtube.com/watch?v=OnK3kuFs5Oc](https://www.youtube.com/watch?v=OnK3kuFs5Oc)
+[Chess Openings - How to Play the Slav Defense](https://www.youtube.com/watch?v=OnK3kuFs5Oc)
 
-[https://www.youtube.com/watch?v=EQXzgBO-voU](https://www.youtube.com/watch?v=EQXzgBO-voU)
+[Mastering the Slav Defense as White: Winning Strategies and Tactical Gems](https://www.youtube.com/watch?v=EQXzgBO-voU)
 

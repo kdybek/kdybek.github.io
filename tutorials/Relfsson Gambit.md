@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=16Q6Po-s6Gs](https://www.youtube.com/watch?v=16Q6Po-s6Gs)
+[Beating Everyone with the Same Opening Trap (Stafford Gambit)](https://www.youtube.com/watch?v=16Q6Po-s6Gs)
 
-[https://www.youtube.com/watch?v=Rb8MPAmhEqc](https://www.youtube.com/watch?v=Rb8MPAmhEqc)
+[Winning Quickly with Traps & Attacks | Speedrun Episode 17](https://www.youtube.com/watch?v=lTXAd7ZmB2g)
 
-[https://www.youtube.com/watch?v=XCANsOz-cT0](https://www.youtube.com/watch?v=XCANsOz-cT0)
+[I Can't Stop Beating Everyone With Gambits](https://www.youtube.com/watch?v=XCANsOz-cT0)
 
-[https://www.youtube.com/watch?v=nH_fiqlLp2U](https://www.youtube.com/watch?v=nH_fiqlLp2U)
+[Chess Openings: The Queen's Gambit](https://www.youtube.com/watch?v=HdHWAuQRG7E)
 
-[https://www.youtube.com/watch?v=XkB4IVNaZWw](https://www.youtube.com/watch?v=XkB4IVNaZWw)
+[A Beginner Lesson in the Stafford Gambit](https://www.youtube.com/watch?v=XkB4IVNaZWw)
 

@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=ATAaIYUDQ7E](https://www.youtube.com/watch?v=ATAaIYUDQ7E)
+[Rousseau Gambit Opening TRAPS | Insane Chess Tricks to WIN Fast](https://www.youtube.com/watch?v=ATAaIYUDQ7E)
 
-[https://www.youtube.com/watch?v=5rsKiFhpdqI](https://www.youtube.com/watch?v=5rsKiFhpdqI)
+[Best Chess Opening Against 1.e4 Refuted? [Rousseau Gambit Declined]](https://www.youtube.com/watch?v=5rsKiFhpdqI)
 
-[https://www.youtube.com/watch?v=Gq1K0lIl4SE](https://www.youtube.com/watch?v=Gq1K0lIl4SE)
+[Rousseau Gambit : The Most Underrated Chess Trap](https://www.youtube.com/watch?v=a-jHr2xwOOI)
 
-[https://www.youtube.com/watch?v=a-jHr2xwOOI](https://www.youtube.com/watch?v=a-jHr2xwOOI)
+[The MOST AGGRESSIVE Gambit Ever?](https://www.youtube.com/watch?v=U_n3CQEzErM)
 
-[https://www.youtube.com/watch?v=w-3dsGcJeaQ](https://www.youtube.com/watch?v=w-3dsGcJeaQ)
+[The TRICKIEST Chess Opening Ever! [Top 3 Traps]](https://www.youtube.com/watch?v=Gq1K0lIl4SE)
 

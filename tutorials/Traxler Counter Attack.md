@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=v1jkj-HPLdw](https://www.youtube.com/watch?v=v1jkj-HPLdw)
+[Traxler Counter Attack: Chess Opening Tricks to WIN Fast |Checkmate Moves, Strategy, Gambit & Ideas](https://www.youtube.com/watch?v=cW81BAd2ins)
 
-[https://www.youtube.com/watch?v=cW81BAd2ins](https://www.youtube.com/watch?v=cW81BAd2ins)
+[Traxler Counter Attack #2: Chess Opening Tricks to WIN Fast |Checkmate Moves Traps, Strategy, Ideas](https://www.youtube.com/watch?v=7LP8A0-aYC0)
 
-[https://www.youtube.com/watch?v=7LP8A0-aYC0](https://www.youtube.com/watch?v=7LP8A0-aYC0)
+[WIN IN 7 MOVES | Traxler Counter-Attack](https://www.youtube.com/watch?v=v1jkj-HPLdw)
 
-[https://www.youtube.com/watch?v=uNYvYNjjps8](https://www.youtube.com/watch?v=uNYvYNjjps8)
+[Chess Openings: Learn to Play the Traxler Counter-Attack!](https://www.youtube.com/watch?v=iQ8PnmjcOYo)
 
-[https://www.youtube.com/watch?v=MKsNX_c1KTw](https://www.youtube.com/watch?v=MKsNX_c1KTw)
+[Chess Openings: Traxler Counter Attack](https://www.youtube.com/watch?v=te4yVda5mhI)
 

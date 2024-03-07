@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=hn_YqhNJc5o](https://www.youtube.com/watch?v=hn_YqhNJc5o)
+[Chess Openings: Learn to Play the Petrov's Defense Against the Three Knights Game!](https://www.youtube.com/watch?v=hn_YqhNJc5o)
 
-[https://www.youtube.com/watch?v=16Q6Po-s6Gs](https://www.youtube.com/watch?v=16Q6Po-s6Gs)
+[How to Play Chess](https://www.youtube.com/watch?v=fKxG8KjH1Qg)
 
-[https://www.youtube.com/watch?v=nXyJdetptXg](https://www.youtube.com/watch?v=nXyJdetptXg)
+[How To Play Chess: The Ultimate Beginner Guide](https://www.youtube.com/watch?v=OCSbzArwB10)
 
-[https://www.youtube.com/watch?v=zMu5hge0T54](https://www.youtube.com/watch?v=zMu5hge0T54)
+[How To Learn & Study Chess Openings](https://www.youtube.com/watch?v=6IegDENuxU4)
 
-[https://www.youtube.com/watch?v=OCSbzArwB10](https://www.youtube.com/watch?v=OCSbzArwB10)
+[Beating Everyone with the Same Opening Trap (Stafford Gambit)](https://www.youtube.com/watch?v=16Q6Po-s6Gs)
 

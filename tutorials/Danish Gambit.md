@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=uIazMeYy5wk](https://www.youtube.com/watch?v=uIazMeYy5wk)
+[How to Play the Danish Gambit in 3 Minutes | Ultra Aggressive Chess](https://www.youtube.com/watch?v=uIazMeYy5wk)
 
-[https://www.youtube.com/watch?v=WBAxtec_clo](https://www.youtube.com/watch?v=WBAxtec_clo)
+[How to Play Danish Gambit (20 MIN FULLY EXPLAINED) | Very Aggressive Chess Opening](https://www.youtube.com/watch?v=WBAxtec_clo)
 
-[https://www.youtube.com/watch?v=Nd7ZiSvdwN8](https://www.youtube.com/watch?v=Nd7ZiSvdwN8)
+[Chess Openings: Learn the Danish Gambit](https://www.youtube.com/watch?v=pf1n8mY1ddw)
 
-[https://www.youtube.com/watch?v=73lCyUHWGMc](https://www.youtube.com/watch?v=73lCyUHWGMc)
+[CRUSH EVERYONE With The Danish Gambit](https://www.youtube.com/watch?v=Nd7ZiSvdwN8)
 
-[https://www.youtube.com/watch?v=hJFCiS4IrzI](https://www.youtube.com/watch?v=hJFCiS4IrzI)
+[What is the Danish Gambit in Chess?](https://www.youtube.com/watch?v=eEhEV8P-pG4)
 

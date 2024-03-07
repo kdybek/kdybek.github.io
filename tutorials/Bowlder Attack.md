@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=0P75sblxKC8](https://www.youtube.com/watch?v=0P75sblxKC8)
+[Destroy Everyone in 7 Moves With My Improved Bowdler Attack 👁️👁️](https://www.youtube.com/watch?v=0P75sblxKC8)
 
-[https://www.youtube.com/watch?v=qyGdCD2lNWo](https://www.youtube.com/watch?v=qyGdCD2lNWo)
+[Bowdler Attack in Sicilian Defense (Chess Openings)](https://www.youtube.com/watch?v=vB0LxoEXNW4)
 
-[https://www.youtube.com/watch?v=o3jrBROC7t0](https://www.youtube.com/watch?v=o3jrBROC7t0)
+[Bowdler Attack](https://www.youtube.com/watch?v=o3jrBROC7t0)
 
-[https://www.youtube.com/watch?v=o12epkA2jeE](https://www.youtube.com/watch?v=o12epkA2jeE)
+[Top 18 Attacking Principles/Concepts In Chess - How To Attack Correctly - How To Sacrifice Pieces!](https://www.youtube.com/watch?v=o7ALEPcUaSU)
 
-[https://www.youtube.com/watch?v=vB0LxoEXNW4](https://www.youtube.com/watch?v=vB0LxoEXNW4)
+[What is The Bowdler Attack? | Sicilian Defense | GM Naroditsky's Top Theory Speedrun](https://www.youtube.com/watch?v=o12epkA2jeE)
 

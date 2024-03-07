@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=LMBF4FGzDD4](https://www.youtube.com/watch?v=LMBF4FGzDD4)
+[CRUSH French and Sicilian Defense with The Wing Gambit](https://www.youtube.com/watch?v=LMBF4FGzDD4)
 
-[https://www.youtube.com/watch?v=79IQLuFgslc](https://www.youtube.com/watch?v=79IQLuFgslc)
+[Powerful Chess Opening Against the Sicilian Defense | Tricky Wing Gambit](https://www.youtube.com/watch?v=tQWLQpFl2GU)
 
-[https://www.youtube.com/watch?v=tQWLQpFl2GU](https://www.youtube.com/watch?v=tQWLQpFl2GU)
+[Trying to Win a Chess Tournament with ONLY Gambits & Aggressive Openings](https://www.youtube.com/watch?v=79IQLuFgslc)
 
-[https://www.youtube.com/watch?v=nH_fiqlLp2U](https://www.youtube.com/watch?v=nH_fiqlLp2U)
+[Wing Gambit - Chess Opening Tricks & Traps to Win Fast | traps for white #shorts](https://www.youtube.com/watch?v=i36j3Krdj98)
 
-[https://www.youtube.com/watch?v=xjJrSDuIUHY](https://www.youtube.com/watch?v=xjJrSDuIUHY)
+[Chess Openings: Learn to Play the Delayed Wing Gambit / Mengarini Variation!](https://www.youtube.com/watch?v=LuFCbugdmfw)
 

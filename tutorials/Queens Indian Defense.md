@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=9Jt3AypZ59c](https://www.youtube.com/watch?v=9Jt3AypZ59c)
+[Introduction to the Queen's Indian Defense · Chess Openings](https://www.youtube.com/watch?v=9Jt3AypZ59c)
 
-[https://www.youtube.com/watch?v=VG3VF-0-8ho](https://www.youtube.com/watch?v=VG3VF-0-8ho)
+[Chess Openings: How to Play the Queen's Indian!](https://www.youtube.com/watch?v=tiDCW-NO848)
 
-[https://www.youtube.com/watch?v=tiDCW-NO848](https://www.youtube.com/watch?v=tiDCW-NO848)
+[Queen's Indian Defense Complete Repertoire (QID) Chess Lesson](https://www.youtube.com/watch?v=j91oyLSaOAg)
 
-[https://www.youtube.com/watch?v=bCmsHfrcBBc](https://www.youtube.com/watch?v=bCmsHfrcBBc)
+[The King's Indian Defense: Step by Step | Chess Lesson # 85](https://www.youtube.com/watch?v=bCmsHfrcBBc)
 
-[https://www.youtube.com/watch?v=0RlupWm5Iao](https://www.youtube.com/watch?v=0RlupWm5Iao)
+[Chess Openings: Queens Indian Defense](https://www.youtube.com/watch?v=0RlupWm5Iao)
 

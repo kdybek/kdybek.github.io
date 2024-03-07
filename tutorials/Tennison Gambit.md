@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=lfTVvUZO4GM](https://www.youtube.com/watch?v=lfTVvUZO4GM)
+[Chess Opening Tricks: Tennison Gambit - Capture Queen in 4 Moves](https://www.youtube.com/watch?v=6OEx_H693f8)
 
-[https://www.youtube.com/watch?v=E2xNlzsnPCQ](https://www.youtube.com/watch?v=E2xNlzsnPCQ)
+[Chess Openings: Tennison Gambit](https://www.youtube.com/watch?v=Ejv7e4gf7cQ)
 
-[https://www.youtube.com/watch?v=Ejv7e4gf7cQ](https://www.youtube.com/watch?v=Ejv7e4gf7cQ)
+[Chess Opening TRICKS to WIN More Games: Tennison Gambit: Secret Traps, Moves, Strategy & Ideas](https://www.youtube.com/watch?v=lfTVvUZO4GM)
 
-[https://www.youtube.com/watch?v=6OEx_H693f8](https://www.youtube.com/watch?v=6OEx_H693f8)
+[Chess Opening TRICKS for Beginners to WIN : The Tennison Gambit](https://www.youtube.com/watch?v=g24yfm8jaZs)
 
-[https://www.youtube.com/watch?v=2Uiebzo13Qo](https://www.youtube.com/watch?v=2Uiebzo13Qo)
+[Chess Openings: Learn to Play the Tennison Gambit](https://www.youtube.com/watch?v=2Uiebzo13Qo)
 

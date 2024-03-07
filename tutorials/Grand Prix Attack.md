@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=o3NPgdOSGck](https://www.youtube.com/watch?v=o3NPgdOSGck)
+[How to WIN with the Grand Prix Attack!](https://www.youtube.com/watch?v=o3NPgdOSGck)
 
-[https://www.youtube.com/watch?v=0T8ft1K6qGE](https://www.youtube.com/watch?v=0T8ft1K6qGE)
+[Chess Openings: Learn to Play the Grand Prix Attack!](https://www.youtube.com/watch?v=-ntqH1wrKZ4)
 
-[https://www.youtube.com/watch?v=0_LZxYxoT3M](https://www.youtube.com/watch?v=0_LZxYxoT3M)
+[How to beat the GRAND PRIX ATTACK - The Hyper Accelerated Dragon Sicilian Defense Part 27 (e6 lines)](https://www.youtube.com/watch?v=0T8ft1K6qGE)
 
-[https://www.youtube.com/watch?v=-ntqH1wrKZ4](https://www.youtube.com/watch?v=-ntqH1wrKZ4)
+[Chess Openings: How to Punish Sicilian Najdorf Players with Grand Prix Attack!!](https://www.youtube.com/watch?v=N3mZGxfc5sk)
 
-[https://www.youtube.com/watch?v=VDPCE2ogQk4](https://www.youtube.com/watch?v=VDPCE2ogQk4)
+[Learn to Play the Grand Prix Attack! #Shorts](https://www.youtube.com/watch?v=3q_pbmPUW6U)
 

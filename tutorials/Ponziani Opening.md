@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=tqZLFyZbfDk](https://www.youtube.com/watch?v=tqZLFyZbfDk)
+[A Beginner Lesson in the Ponziani Opening](https://www.youtube.com/watch?v=tqZLFyZbfDk)
 
-[https://www.youtube.com/watch?v=VNxz6w0fmys](https://www.youtube.com/watch?v=VNxz6w0fmys)
+[Ponziani Opening: Instructive Winning Strategy](https://www.youtube.com/watch?v=t9H2PUDMnEc)
 
-[https://www.youtube.com/watch?v=t9H2PUDMnEc](https://www.youtube.com/watch?v=t9H2PUDMnEc)
+[Chess Openings: Learn to Play the Ponziani Opening!](https://www.youtube.com/watch?v=VNxz6w0fmys)
 
-[https://www.youtube.com/watch?v=D2Gs5upS1AA](https://www.youtube.com/watch?v=D2Gs5upS1AA)
+[Live Ponziani Opening Lesson AND Free Tournament on Chess.com with Nelson! 3...Nf6 Variation Only](https://www.youtube.com/watch?v=Iw9CK95snCw)
 
-[https://www.youtube.com/watch?v=Iw9CK95snCw](https://www.youtube.com/watch?v=Iw9CK95snCw)
+[Even strong players fall for this Ponziani Opening trick!](https://www.youtube.com/watch?v=2CdQi8HUpdM)
 

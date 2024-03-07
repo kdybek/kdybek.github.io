@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=4Xpk9VIHX0s](https://www.youtube.com/watch?v=4Xpk9VIHX0s)
+[The Sicilian Defense | Chess Opening Tutorial](https://www.youtube.com/watch?v=4Xpk9VIHX0s)
 
-[https://www.youtube.com/watch?v=65VWIFlc4C4](https://www.youtube.com/watch?v=65VWIFlc4C4)
+[Chess Openings: How to Play the Sicilian Defense](https://www.youtube.com/watch?v=M9nqKf-0I8c)
 
-[https://www.youtube.com/watch?v=wbmjlCh-8aY](https://www.youtube.com/watch?v=wbmjlCh-8aY)
+[Basics of the Sicilian Defense | Chess](https://www.youtube.com/watch?v=8M2Fhms28mo)
 
-[https://www.youtube.com/watch?v=impkeLfyyVM](https://www.youtube.com/watch?v=impkeLfyyVM)
+[Beginner friendly overview of the Sicilian Defense in 3 minutes!](https://www.youtube.com/watch?v=t-DgGvfr24Q)
 
-[https://www.youtube.com/watch?v=M9nqKf-0I8c](https://www.youtube.com/watch?v=M9nqKf-0I8c)
+[Play the Sicilian Defense like Beth Harmon](https://www.youtube.com/watch?v=65VWIFlc4C4)
 

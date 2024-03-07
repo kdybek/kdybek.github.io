@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=lA7cKTuI7Jk](https://www.youtube.com/watch?v=lA7cKTuI7Jk)
+[Chess Openings: Learn to Play the Muzio Gambit! King's Gambit Chess Opening Theory](https://www.youtube.com/watch?v=lA7cKTuI7Jk)
 
-[https://www.youtube.com/watch?v=CrA9RXYu9eg](https://www.youtube.com/watch?v=CrA9RXYu9eg)
+[The Most Insane Gambit Explained in 3 Minutes | The King's Gambit Double Muzio](https://www.youtube.com/watch?v=MiNKfPc3kzk)
 
-[https://www.youtube.com/watch?v=I7rpGv0Ax-s](https://www.youtube.com/watch?v=I7rpGv0Ax-s)
+[Kings Gambit Muzio Gambit | Sacrifice | chess tips and tricks for beginners](https://www.youtube.com/watch?v=owLFUC0Aagc)
 
-[https://www.youtube.com/watch?v=DsHY5EBiyIs](https://www.youtube.com/watch?v=DsHY5EBiyIs)
+[Triple Muzio Gambit: Greatest Chess Opening](https://www.youtube.com/watch?v=CrA9RXYu9eg)
 
-[https://www.youtube.com/watch?v=zx1HchmE3Tw](https://www.youtube.com/watch?v=zx1HchmE3Tw)
+[Chess Openings: The Polerio (Muzio) Gambit](https://www.youtube.com/watch?v=f46rHH2PFmE)
 

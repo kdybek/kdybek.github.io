@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=Qb3PWiIbIJs](https://www.youtube.com/watch?v=Qb3PWiIbIJs)
+[Learn the POWERFUL Bishop's Opening](https://www.youtube.com/watch?v=AAAYOFAwfTE)
 
-[https://www.youtube.com/watch?v=AAAYOFAwfTE](https://www.youtube.com/watch?v=AAAYOFAwfTE)
+[Chess Openings: Learn to Play the Bishop's Opening!](https://www.youtube.com/watch?v=LD1iG4TBiEo)
 
-[https://www.youtube.com/watch?v=bDZNwxZkRcA](https://www.youtube.com/watch?v=bDZNwxZkRcA)
+[The Unbeatable Bishop's Opening (simple and powerful)](https://www.youtube.com/watch?v=Qb3PWiIbIJs)
 
-[https://www.youtube.com/watch?v=GEyUG8uNrt0](https://www.youtube.com/watch?v=GEyUG8uNrt0)
+[How To Learn & Study Chess Openings](https://www.youtube.com/watch?v=6IegDENuxU4)
 
-[https://www.youtube.com/watch?v=gw4-QF3olQw](https://www.youtube.com/watch?v=gw4-QF3olQw)
+[35 Vital Chess Principles | Opening, Middlegame, and Endgame Principles - Chess Strategy and Ideas](https://www.youtube.com/watch?v=nXyJdetptXg)
 

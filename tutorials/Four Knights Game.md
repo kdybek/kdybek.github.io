@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=432VtltHVaA](https://www.youtube.com/watch?v=432VtltHVaA)
+[Four Knights Game - Chess Openings Explained](https://www.youtube.com/watch?v=432VtltHVaA)
 
-[https://www.youtube.com/watch?v=jdsKTHv6Flc](https://www.youtube.com/watch?v=jdsKTHv6Flc)
+[Four Knights Game - A Short, Simple Repertoire for Black](https://www.youtube.com/watch?v=hKUTmN0ruYE)
 
-[https://www.youtube.com/watch?v=hKUTmN0ruYE](https://www.youtube.com/watch?v=hKUTmN0ruYE)
+[Chess lesson # 33: The Four Knights Opening (Scotch variation) | Theory and game analysis](https://www.youtube.com/watch?v=jdsKTHv6Flc)
 
-[https://www.youtube.com/watch?v=iiBW9_IWmNs](https://www.youtube.com/watch?v=iiBW9_IWmNs)
+[4.4 Million Players - SAME MISTKAE 😮](https://www.youtube.com/watch?v=5T6TN35mDDs)
 
-[https://www.youtube.com/watch?v=5T6TN35mDDs](https://www.youtube.com/watch?v=5T6TN35mDDs)
+[6 Best Chess Opening Traps in the Four Knights Game](https://www.youtube.com/watch?v=QqPVNolnOfw)
 

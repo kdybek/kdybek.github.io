@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=hLFSufXxtuI](https://www.youtube.com/watch?v=hLFSufXxtuI)
+[How To Win As Black Against The Fried Liver Attack!](https://www.youtube.com/watch?v=n0fjLO8qxps)
 
-[https://www.youtube.com/watch?v=mRi1OC9yNHM](https://www.youtube.com/watch?v=mRi1OC9yNHM)
+[Fried Liver Attack | Chess Openings](https://www.youtube.com/watch?v=VVI1nHnP5Zg)
 
-[https://www.youtube.com/watch?v=GPOLvCvtzuQ](https://www.youtube.com/watch?v=GPOLvCvtzuQ)
+[Win in 9 Moves Against the Fried Liver Attack [TRAPS Included]](https://www.youtube.com/watch?v=ZwhuqsN-O8U)
 
-[https://www.youtube.com/watch?v=3nmn00OhV34](https://www.youtube.com/watch?v=3nmn00OhV34)
+[How to Cook Your Opponent with the Fried Liver Attack : A Guide to the Most Delicious Chess Opening](https://www.youtube.com/watch?v=JDlVWqn3SLc)
 
-[https://www.youtube.com/watch?v=SFhzkzKbRew](https://www.youtube.com/watch?v=SFhzkzKbRew)
+[The Fried Liver Attack( Chess tutorial)](https://www.youtube.com/watch?v=EJGsiHOCyFo)
 

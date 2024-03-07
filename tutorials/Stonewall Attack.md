@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=4_brAnORWGw](https://www.youtube.com/watch?v=4_brAnORWGw)
+[Learn the Stonewall Defense & Attack | 10-Minute Chess Openings](https://www.youtube.com/watch?v=4_brAnORWGw)
 
-[https://www.youtube.com/watch?v=39KI_Ss7ouA](https://www.youtube.com/watch?v=39KI_Ss7ouA)
+[Beginner Chess Openings - ⚔️ The Stonewall Attack - Greek Gift Sacrifice](https://www.youtube.com/watch?v=F8owlkaNFlI)
 
-[https://www.youtube.com/watch?v=6ShMJy5f1-o](https://www.youtube.com/watch?v=6ShMJy5f1-o)
+[Opening Basics #35: Stonewall attack](https://www.youtube.com/watch?v=P65XMmfK110)
 
-[https://www.youtube.com/watch?v=Rpi9QJcBNgw](https://www.youtube.com/watch?v=Rpi9QJcBNgw)
+[The Stonewall Attack](https://www.youtube.com/watch?v=6ShMJy5f1-o)
 
-[https://www.youtube.com/watch?v=P65XMmfK110](https://www.youtube.com/watch?v=P65XMmfK110)
+[Stonewall Attack - Beginner Breakdown](https://www.youtube.com/watch?v=eDn5iVnSopA)
 

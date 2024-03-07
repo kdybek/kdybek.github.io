@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=--iF8rE7McE](https://www.youtube.com/watch?v=--iF8rE7McE)
+[Bobby Fischer's Legendary Lolli Attack](https://www.youtube.com/watch?v=--iF8rE7McE)
 
-[https://www.youtube.com/watch?v=OOC1gSC2Cnw](https://www.youtube.com/watch?v=OOC1gSC2Cnw)
+[Chess Openings: Learn to Play the Lolli Attack!](https://www.youtube.com/watch?v=XVD1wE6zf_c)
 
-[https://www.youtube.com/watch?v=XVD1wE6zf_c](https://www.youtube.com/watch?v=XVD1wE6zf_c)
+[The Lolli Attack | A dangerous Weapon for White in the Italian | Chess Openings | IM Alex Astaneh](https://www.youtube.com/watch?v=OOC1gSC2Cnw)
 
-[https://www.youtube.com/watch?v=UdUekC1cUUY](https://www.youtube.com/watch?v=UdUekC1cUUY)
+[Amazing Lolli Attack Is Better Than The Fried Liver 🔥](https://www.youtube.com/watch?v=ba32aZwwwQo)
 
-[https://www.youtube.com/watch?v=ZmF64w13ZU8](https://www.youtube.com/watch?v=ZmF64w13ZU8)
+[Lolli Attack - Chess Openings](https://www.youtube.com/watch?v=ZmF64w13ZU8)
 

@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=dqw3pBmR8io](https://www.youtube.com/watch?v=dqw3pBmR8io)
+[Chess lesson # 35: Petrov Defense (Russian Defense) | Chess openings the right way](https://www.youtube.com/watch?v=ibGd3FJ8t1Y)
 
-[https://www.youtube.com/watch?v=YSLU0ed3quc](https://www.youtube.com/watch?v=YSLU0ed3quc)
+[Chess Openings: Learn to Play the Petrov's Defense!](https://www.youtube.com/watch?v=dqw3pBmR8io)
 
-[https://www.youtube.com/watch?v=hSsqfeXW95E](https://www.youtube.com/watch?v=hSsqfeXW95E)
+[Petrov's Defense Opening | Learn Chess Opening | Traps In Petrov's Defense](https://www.youtube.com/watch?v=WfnunKDkuag)
 
-[https://www.youtube.com/watch?v=h8orykbIZD4](https://www.youtube.com/watch?v=h8orykbIZD4)
+[Petrov Defense | Ideas, Principles and Common Variations](https://www.youtube.com/watch?v=L8X6f8rBiVA)
 
-[https://www.youtube.com/watch?v=ibGd3FJ8t1Y](https://www.youtube.com/watch?v=ibGd3FJ8t1Y)
+[How to Play Petrov Defense (Russian Defense) | Best Chess Openings for Black](https://www.youtube.com/watch?v=YSLU0ed3quc)
 

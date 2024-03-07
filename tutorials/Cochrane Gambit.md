@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=4dpblBKHFXA](https://www.youtube.com/watch?v=4dpblBKHFXA)
+[Chess openings: Cochrane gambit](https://www.youtube.com/watch?v=4dpblBKHFXA)
 
-[https://www.youtube.com/watch?v=Y6fEV6pIbNY](https://www.youtube.com/watch?v=Y6fEV6pIbNY)
+[Get Cocky with the Cochrane Gambit | Chess Openings Explained](https://www.youtube.com/watch?v=Y6fEV6pIbNY)
 
-[https://www.youtube.com/watch?v=JtivHvFEXGg](https://www.youtube.com/watch?v=JtivHvFEXGg)
+[The Cochrane Gambit | Opening Deep Dives](https://www.youtube.com/watch?v=JtivHvFEXGg)
 
-[https://www.youtube.com/watch?v=r1L-ubGmX2Q](https://www.youtube.com/watch?v=r1L-ubGmX2Q)
+[Basic Opening Chess Trap | Cochrane Gambit in the Petroff](https://www.youtube.com/watch?v=tqgoxsfHoK0)
 
-[https://www.youtube.com/watch?v=9wYfrVIet-o](https://www.youtube.com/watch?v=9wYfrVIet-o)
+[Chess Tips: Crush The Petroff Defense with The Awesome Cochrane Gambit!!](https://www.youtube.com/watch?v=r1L-ubGmX2Q)
 

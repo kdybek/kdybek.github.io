@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=Of44HLmqRgI](https://www.youtube.com/watch?v=Of44HLmqRgI)
+[Chess Openings: How to Play the King's Gambit](https://www.youtube.com/watch?v=Of44HLmqRgI)
 
-[https://www.youtube.com/watch?v=n5ImJ2row6E](https://www.youtube.com/watch?v=n5ImJ2row6E)
+[Chess Openings- The King's Gambit](https://www.youtube.com/watch?v=n5ImJ2row6E)
 
-[https://www.youtube.com/watch?v=33irQXGVPPs](https://www.youtube.com/watch?v=33irQXGVPPs)
+[Chess Openings: The King's Gambit (Part 2)](https://www.youtube.com/watch?v=SC3ZxFEWs-Q)
 
-[https://www.youtube.com/watch?v=_UxEMdsV4iY](https://www.youtube.com/watch?v=_UxEMdsV4iY)
+[King's Gambit: Chess Opening Strategy, Moves & Ideas to WIN More Games | Accepted Variation](https://www.youtube.com/watch?v=92XYzS-vUOc)
 
-[https://www.youtube.com/watch?v=SC3ZxFEWs-Q](https://www.youtube.com/watch?v=SC3ZxFEWs-Q)
+[The King's Gambit (chess opening) explained in 4 minutes by a chess master](https://www.youtube.com/watch?v=S2hd1UxEAvo)
 

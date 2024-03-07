@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=CYxb9Mms2cQ](https://www.youtube.com/watch?v=CYxb9Mms2cQ)
+[Chess Openings: Learn to Play the Chigorin Defense!](https://www.youtube.com/watch?v=CYxb9Mms2cQ)
 
-[https://www.youtube.com/watch?v=hzQjLNRXP0A](https://www.youtube.com/watch?v=hzQjLNRXP0A)
+[Introduction to the Chigorin Defense](https://www.youtube.com/watch?v=CASr3pqMjYk)
 
-[https://www.youtube.com/watch?v=CASr3pqMjYk](https://www.youtube.com/watch?v=CASr3pqMjYk)
+[The Simple Solution to the Chigorin Defense | Chess Opening Blueprint](https://www.youtube.com/watch?v=hzQjLNRXP0A)
 
-[https://www.youtube.com/watch?v=83a0vrwegkM](https://www.youtube.com/watch?v=83a0vrwegkM)
+[Mastering the Chigorin Defense. All lines (part 1)](https://www.youtube.com/watch?v=3dF4C-RZ6s8)
 
-[https://www.youtube.com/watch?v=3dF4C-RZ6s8](https://www.youtube.com/watch?v=3dF4C-RZ6s8)
+[How To Learn The Chigorin Defence](https://www.youtube.com/watch?v=qmMvdyrZyYA)
 

@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=nMuvv1HksL4](https://www.youtube.com/watch?v=nMuvv1HksL4)
+[How to play the Catalan | 10-Minute Chess Openings](https://www.youtube.com/watch?v=nMuvv1HksL4)
 
-[https://www.youtube.com/watch?v=gTilAzLqgLk](https://www.youtube.com/watch?v=gTilAzLqgLk)
+[The Open Catalan Opening | Basic Plans, Ideas & Strategies | Chess Openings | IM Andrey Ostrovskiy](https://www.youtube.com/watch?v=7f5IkAppG3M)
 
-[https://www.youtube.com/watch?v=G3WZRnALLRU](https://www.youtube.com/watch?v=G3WZRnALLRU)
+[NEW SERIES!!! Strategic Ideas, Plans and Variations of the Catalan Opening - Introduction](https://www.youtube.com/watch?v=rHyrX4FfCIc)
 
-[https://www.youtube.com/watch?v=dHkYfxme6Zc](https://www.youtube.com/watch?v=dHkYfxme6Zc)
+[How to play 1 of the Best Chess Openings (Catalan)](https://www.youtube.com/watch?v=gTilAzLqgLk)
 
-[https://www.youtube.com/watch?v=s0mAzxJRHpk](https://www.youtube.com/watch?v=s0mAzxJRHpk)
+[Introduction to the Catalan](https://www.youtube.com/watch?v=s0mAzxJRHpk)
 

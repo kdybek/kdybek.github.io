@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=F-3jXIRNd6Y](https://www.youtube.com/watch?v=F-3jXIRNd6Y)
+[Understand the Nimzowitsch Defense (Chess Opening Guide)](https://www.youtube.com/watch?v=F-3jXIRNd6Y)
 
-[https://www.youtube.com/watch?v=-hB7rW1EXfI](https://www.youtube.com/watch?v=-hB7rW1EXfI)
+[How to beat a beginner with Nimzowitsch Defense | Chess openings](https://www.youtube.com/watch?v=LNfM9ikga7E)
 
-[https://www.youtube.com/watch?v=pBpEFAz5Afw](https://www.youtube.com/watch?v=pBpEFAz5Afw)
+[Chess Openings: Learn to Play the Nimzowitsch Defense!](https://www.youtube.com/watch?v=AcWPOrHLmu4)
 
-[https://www.youtube.com/watch?v=lAniuIChYuA](https://www.youtube.com/watch?v=lAniuIChYuA)
+[The Nimzowitsch Defence in Chess, explained by GM Wesley So](https://www.youtube.com/watch?v=-hB7rW1EXfI)
 
-[https://www.youtube.com/watch?v=0nzZls29mGI](https://www.youtube.com/watch?v=0nzZls29mGI)
+[Chess Openings: Learn to Play the Nimzowitsch Defense AGAINST the Advance Variation!](https://www.youtube.com/watch?v=lT4EUTCPH7c)
 

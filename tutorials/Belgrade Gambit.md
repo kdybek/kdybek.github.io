@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=oTOs60GSicA](https://www.youtube.com/watch?v=oTOs60GSicA)
+[Winning in 12 moves with the Belgrade Gambit](https://www.youtube.com/watch?v=oTOs60GSicA)
 
-[https://www.youtube.com/watch?v=qNgzkDwVESY](https://www.youtube.com/watch?v=qNgzkDwVESY)
+[The Belgrade Gambit explained by GM Sethuraman](https://www.youtube.com/watch?v=teJaiYUIYAs)
 
-[https://www.youtube.com/watch?v=rkD3OtB0TTs](https://www.youtube.com/watch?v=rkD3OtB0TTs)
+[BELGRADE GAMBIT - No-Nonsense Beginner Guide](https://www.youtube.com/watch?v=mu51paDPkm0)
 
-[https://www.youtube.com/watch?v=Q-oMCmB3NYA](https://www.youtube.com/watch?v=Q-oMCmB3NYA)
+[Belgrade Gambit - Chess Opening](https://www.youtube.com/watch?v=qNgzkDwVESY)
 
-[https://www.youtube.com/watch?v=Qs3BalPLS7Y](https://www.youtube.com/watch?v=Qs3BalPLS7Y)
+[Four Knights Game: How to Play Belgrade Gambit](https://www.youtube.com/watch?v=OnRh3m-tW7E)
 

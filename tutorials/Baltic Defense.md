@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=LWiuzwGVJDs](https://www.youtube.com/watch?v=LWiuzwGVJDs)
+[Use this Method to DESTROY the BALTIC Defense! - D06 👑 's Gambit Declined, Baltic Defense - Part 2](https://www.youtube.com/watch?v=nbrHmZAtLdg)
 
-[https://www.youtube.com/watch?v=Q5ECmHUyMzk](https://www.youtube.com/watch?v=Q5ECmHUyMzk)
+[Chess Openings - Baltic Defense](https://www.youtube.com/watch?v=Q5ECmHUyMzk)
 
-[https://www.youtube.com/watch?v=nbrHmZAtLdg](https://www.youtube.com/watch?v=nbrHmZAtLdg)
+[Is the Baltic Defense a Good Chess Opening?](https://www.youtube.com/watch?v=fSf4ZrHhs6M)
 
-[https://www.youtube.com/watch?v=gTzVz6Wq6Bc](https://www.youtube.com/watch?v=gTzVz6Wq6Bc)
+[Mastering the Baltic Defense: 9 Deadly Traps for Black in the Queen's Gambit Declined](https://www.youtube.com/watch?v=LWiuzwGVJDs)
 
-[https://www.youtube.com/watch?v=1a_s2pPB290](https://www.youtube.com/watch?v=1a_s2pPB290)
+[GM Ben Finegold's Lesson on the Baltic Defense and More](https://www.youtube.com/watch?v=KnceuAwVuSY)
 

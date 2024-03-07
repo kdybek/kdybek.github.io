@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=2WztzXJuLo0](https://www.youtube.com/watch?v=2WztzXJuLo0)
+[How to BEAT the Philidor Defense](https://www.youtube.com/watch?v=nS2vhQR-8wQ)
 
-[https://www.youtube.com/watch?v=nS2vhQR-8wQ](https://www.youtube.com/watch?v=nS2vhQR-8wQ)
+[How to Play the Philidor Defense || Lion Defense Structures || Chess Openings for Black](https://www.youtube.com/watch?v=bZl0phd70l4)
 
-[https://www.youtube.com/watch?v=bZl0phd70l4](https://www.youtube.com/watch?v=bZl0phd70l4)
+[Chess Openings: Learn to Play the Philidor Defense!](https://www.youtube.com/watch?v=2WztzXJuLo0)
 
-[https://www.youtube.com/watch?v=FXxgPK5AceU](https://www.youtube.com/watch?v=FXxgPK5AceU)
+[Learn the Philidor Position | Fundamental Rook Endgames | Beginner Level | GM Alex Ipatov](https://www.youtube.com/watch?v=FXxgPK5AceU)
 
-[https://www.youtube.com/watch?v=Q4bp4qlRqGg](https://www.youtube.com/watch?v=Q4bp4qlRqGg)
+[Philidor Defense Explained | Ultimate Beginner Guide to King Pawn Openings Part 1](https://www.youtube.com/watch?v=YGVHZns_jYA)
 

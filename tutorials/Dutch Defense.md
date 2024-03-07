@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=ogmGNIk6W7I](https://www.youtube.com/watch?v=ogmGNIk6W7I)
+[Learn the Dutch Defense Setup | 10-Minute Chess Openings](https://www.youtube.com/watch?v=ogmGNIk6W7I)
 
-[https://www.youtube.com/watch?v=sat0JLAdh2o](https://www.youtube.com/watch?v=sat0JLAdh2o)
+[Mastering the Dutch Defense: A Beginner's Guide to the Classic Kingside Attack](https://www.youtube.com/watch?v=IFQDEhbbY2U)
 
-[https://www.youtube.com/watch?v=fuyecnGoiKQ](https://www.youtube.com/watch?v=fuyecnGoiKQ)
+[Introduction to the Dutch Defense · Chess Openings](https://www.youtube.com/watch?v=hVNzZi0EBfo)
 
-[https://www.youtube.com/watch?v=UvbpNAO4yTk](https://www.youtube.com/watch?v=UvbpNAO4yTk)
+[The Dutch Defense - Levy Rozman (Full Course)](https://www.youtube.com/watch?v=sat0JLAdh2o)
 
-[https://www.youtube.com/watch?v=_YqiAoKVe7Y](https://www.youtube.com/watch?v=_YqiAoKVe7Y)
+[The Dutch Defense in Chess, Do's and Don'ts by GM Simon Williams](https://www.youtube.com/watch?v=Lt8x0bzE18s)
 

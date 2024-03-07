@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=GN7lp9V0szA](https://www.youtube.com/watch?v=GN7lp9V0szA)
+[Learn the Ruy Lopez and Relax ♔ Chess Opening Tutorial ♔ ASMR](https://www.youtube.com/watch?v=5N2IX72pYPs)
 
-[https://www.youtube.com/watch?v=IQrtrPvU3bQ](https://www.youtube.com/watch?v=IQrtrPvU3bQ)
+[MAGNUS shows how to play the RUY LOPEZ opening](https://www.youtube.com/watch?v=GN7lp9V0szA)
 
-[https://www.youtube.com/watch?v=5N2IX72pYPs](https://www.youtube.com/watch?v=5N2IX72pYPs)
+[Ruy Lopez Chess Opening Explained in 10 Minutes [TRAPS Included]](https://www.youtube.com/watch?v=xD0iTgHMQVQ)
 
-[https://www.youtube.com/watch?v=Z7CzwC9rzH0](https://www.youtube.com/watch?v=Z7CzwC9rzH0)
+[Ruy López Opening TUTORIAL #chess](https://www.youtube.com/watch?v=G3A3wVULWOw)
 
-[https://www.youtube.com/watch?v=InUu5pZma4w](https://www.youtube.com/watch?v=InUu5pZma4w)
+[Chess Openings: Ruy Lopez | Ideas, Theory, and Attacking Plans](https://www.youtube.com/watch?v=IQrtrPvU3bQ)
 

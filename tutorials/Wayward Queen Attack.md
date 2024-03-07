@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=yfAG7n-ny2k](https://www.youtube.com/watch?v=yfAG7n-ny2k)
+[Wayward Queen Attack](https://www.youtube.com/watch?v=yfAG7n-ny2k)
 
-[https://www.youtube.com/watch?v=IBre1zK6FG8](https://www.youtube.com/watch?v=IBre1zK6FG8)
+[The Wayward Queen Attack: How to play it + defend against it!](https://www.youtube.com/watch?v=IBre1zK6FG8)
 
-[https://www.youtube.com/watch?v=cY9zitJFglc](https://www.youtube.com/watch?v=cY9zitJFglc)
+[PUNISH Wayward Queen Attacks in Chess](https://www.youtube.com/watch?v=haOXuiEdwbs)
 
-[https://www.youtube.com/watch?v=d-VL5fZQoLY](https://www.youtube.com/watch?v=d-VL5fZQoLY)
+[How To PUNISH Early Queen Attacks In Chess](https://www.youtube.com/watch?v=cY9zitJFglc)
 
-[https://www.youtube.com/watch?v=haOXuiEdwbs](https://www.youtube.com/watch?v=haOXuiEdwbs)
+[Wayward Queen Attack: Easy Win!](https://www.youtube.com/watch?v=d-VL5fZQoLY)
 

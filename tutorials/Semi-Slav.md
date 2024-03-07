@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=7HcgSgSfzUY](https://www.youtube.com/watch?v=7HcgSgSfzUY)
+[The Complete Semi-Slav Part 1: The Classical Meran (8...a6) | Chess Openings Explained](https://www.youtube.com/watch?v=g1Uh3S-pPaA)
 
-[https://www.youtube.com/watch?v=AdiwIMRwPSk](https://www.youtube.com/watch?v=AdiwIMRwPSk)
+[The Complete Semi-Slav Part 3: The Reynolds Attack | Chess Openings Explained](https://www.youtube.com/watch?v=4I2-e0EE6GQ)
 
-[https://www.youtube.com/watch?v=OXffjL9fLAw](https://www.youtube.com/watch?v=OXffjL9fLAw)
+[Introduction to the Semi-Slav Defense](https://www.youtube.com/watch?v=OXffjL9fLAw)
 
-[https://www.youtube.com/watch?v=nuEQFyZARlU](https://www.youtube.com/watch?v=nuEQFyZARlU)
+[The Complete Semi-Slav Part 2: The Modern Meran (8...Bb7) | Chess Openings Explained](https://www.youtube.com/watch?v=AdiwIMRwPSk)
 
-[https://www.youtube.com/watch?v=64uHuGHDZ-I](https://www.youtube.com/watch?v=64uHuGHDZ-I)
+[The Complete Semi-Slav Part 6: Botvinnik Sidelines | Chess Openings Explained](https://www.youtube.com/watch?v=64uHuGHDZ-I)
 

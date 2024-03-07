@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=Gocpzyh7cas](https://www.youtube.com/watch?v=Gocpzyh7cas)
+[How to beat the Richter-Veresov Attack Easily](https://www.youtube.com/watch?v=5kbkuQgqnL4)
 
-[https://www.youtube.com/watch?v=5kbkuQgqnL4](https://www.youtube.com/watch?v=5kbkuQgqnL4)
+[The Veresov Attack - Chess Openings with GM Damian Lemos](https://www.youtube.com/watch?v=Gocpzyh7cas)
 
-[https://www.youtube.com/watch?v=woAoDdoScbg](https://www.youtube.com/watch?v=woAoDdoScbg)
+[The Veresov Attack: Chess Openings for White 🎓 IM Valeri Lilov (Part 1)](https://www.youtube.com/watch?v=woAoDdoScbg)
 
-[https://www.youtube.com/watch?v=o17K4WiESWQ](https://www.youtube.com/watch?v=o17K4WiESWQ)
+[Chess Game 204: Win against Richter-Veresov Attack | Chess-Corner #chess](https://www.youtube.com/watch?v=pTGdpv1IIO0)
 
-[https://www.youtube.com/watch?v=Q8vB7eWjDaY](https://www.youtube.com/watch?v=Q8vB7eWjDaY)
+[The Richter-Veresov Attack - Plans, Structures, Patterns, Variations · Chess Openings](https://www.youtube.com/watch?v=Q8vB7eWjDaY)
 

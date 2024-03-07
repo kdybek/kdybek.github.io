@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=BPpSz2rbG3A](https://www.youtube.com/watch?v=BPpSz2rbG3A)
+[Chess Openings: A Short Introduction to the Giuoco Piano!](https://www.youtube.com/watch?v=BPpSz2rbG3A)
 
-[https://www.youtube.com/watch?v=4x5Y62g4UhI](https://www.youtube.com/watch?v=4x5Y62g4UhI)
+[How to play Italian Game | Giuoco Piano | White Win | Complete Trap and Trick | Gambit](https://www.youtube.com/watch?v=irpCJpkTXJU)
 
-[https://www.youtube.com/watch?v=irpCJpkTXJU](https://www.youtube.com/watch?v=irpCJpkTXJU)
+[Giuoco Piano in Chess](https://www.youtube.com/watch?v=Bkg3TRGIDZs)
 
-[https://www.youtube.com/watch?v=4y4d_gHuwWA](https://www.youtube.com/watch?v=4y4d_gHuwWA)
+[Chess Tricks - Giuoco Piano Great chess tricks lead to a...](https://www.facebook.com/100089590664197/videos/giuoco-pianogreat-chess-tricks-lead-to-a-wonderful-checkmate/1236471090343157/)
 
-[https://www.youtube.com/watch?v=IREcO52zlYY](https://www.youtube.com/watch?v=IREcO52zlYY)
+[Chess Openings: Learn to Play the Giuoco Piano!](https://www.youtube.com/watch?v=IREcO52zlYY)
 

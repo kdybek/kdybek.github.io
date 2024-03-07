@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=wTDy92HpHYo](https://www.youtube.com/watch?v=wTDy92HpHYo)
+[What is the Portuguese Gambit?](https://www.youtube.com/watch?v=wTDy92HpHYo)
 
-[https://www.youtube.com/watch?v=KW5sdQlCfks](https://www.youtube.com/watch?v=KW5sdQlCfks)
+[Portuguese Gambit - Chess Opening](https://www.youtube.com/watch?v=KW5sdQlCfks)
 
-[https://www.youtube.com/watch?v=zFViSKSOgs0](https://www.youtube.com/watch?v=zFViSKSOgs0)
+[My FAVORITE Chess Opening](https://www.youtube.com/watch?v=zFViSKSOgs0)
 
-[https://www.youtube.com/watch?v=y1Jm_85xAa0](https://www.youtube.com/watch?v=y1Jm_85xAa0)
+[CRUSH EVERYONE With The Danish Gambit](https://www.youtube.com/watch?v=Nd7ZiSvdwN8)
 
-[https://www.youtube.com/watch?v=UIjrMzrjreI](https://www.youtube.com/watch?v=UIjrMzrjreI)
+[The Full Modern Scandinavian Gambit (Defence) Explained - Opening Tricks and Traps](https://www.youtube.com/watch?v=CBdeCj3_Z2A)
 

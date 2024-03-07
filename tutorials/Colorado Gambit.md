@@ -2,13 +2,13 @@
 
 ---
 
-[https://www.youtube.com/watch?v=kWXkutY3foM](https://www.youtube.com/watch?v=kWXkutY3foM)
+[Learn This Amazing Colorado Gambit in 10 Minutes 💡](https://www.youtube.com/watch?v=IqYoNLRK7R8)
 
-[https://www.youtube.com/watch?v=T2k1KegtWDg](https://www.youtube.com/watch?v=T2k1KegtWDg)
+[Aggressive Chess (Colorado Gambit)](https://www.youtube.com/watch?v=kWXkutY3foM)
 
-[https://www.youtube.com/watch?v=CUQQ4dym5ZU](https://www.youtube.com/watch?v=CUQQ4dym5ZU)
+[Chess Tips: A Positional Massacre of the Colorado Gambit!](https://www.youtube.com/watch?v=RxhVesNhiq0)
 
-[https://www.youtube.com/watch?v=nH_fiqlLp2U](https://www.youtube.com/watch?v=nH_fiqlLp2U)
+[Chess Openings - Colorado Gambit](https://www.youtube.com/watch?v=T8LExOf_fRI)
 
-[https://www.youtube.com/watch?v=6IegDENuxU4](https://www.youtube.com/watch?v=6IegDENuxU4)
+[Unveiling the Colorado Gambit: A Chess Opening Trap part 1](https://www.youtube.com/watch?v=dw7vT5YEEwI)
 
