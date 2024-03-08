@@ -87,7 +87,7 @@ if __name__ == '__main__':
     chess_site_url = 'https://www.thechesswebsite.com/chess-openings/'
     opening_names, opening_images = scrape_chess_openings(chess_site_url)
     if opening_names and opening_images:
-        filename = 'index.md'
+        filename = 'opening_list.md'
         create_main_page_markdown(opening_names, opening_images, filename)
 
         for opening in opening_names:
