@@ -1,3 +1,5 @@
+# Script for generating the opening list page
+
 import requests
 import re
 import time
