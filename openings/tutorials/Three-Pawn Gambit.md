@@ -1,7 +1,5 @@
 ﻿# Three-Pawn Gambit Tutorials
 
----
-
 [Chess Openings: The Queen's Gambit](https://www.youtube.com/watch?v=HdHWAuQRG7E)
 
 [CRUSH EVERYONE With The Danish Gambit](https://www.youtube.com/watch?v=Nd7ZiSvdwN8)

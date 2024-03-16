@@ -1,7 +1,5 @@
 ﻿# Vienna Game Tutorials
 
----
-
 [The Vienna Game Full Guide](https://www.youtube.com/watch?v=T64JJ5850sk)
 
 [The Vienna Game \| Chess Openings Explained](https://www.youtube.com/watch?v=6QQ5sw-SgNw)

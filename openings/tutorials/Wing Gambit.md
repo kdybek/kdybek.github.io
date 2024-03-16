@@ -1,7 +1,5 @@
 ﻿# Wing Gambit Tutorials
 
----
-
 [CRUSH French and Sicilian Defense with The Wing Gambit](https://www.youtube.com/watch?v=LMBF4FGzDD4)
 
 [Powerful Chess Opening Against the Sicilian Defense \| Tricky Wing Gambit](https://www.youtube.com/watch?v=tQWLQpFl2GU)

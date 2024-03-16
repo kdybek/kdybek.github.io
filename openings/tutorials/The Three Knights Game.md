@@ -1,7 +1,5 @@
 ﻿# The Three Knights Game Tutorials
 
----
-
 [Chess Openings: Learn to Play the Petrov's Defense Against the Three Knights Game!](https://www.youtube.com/watch?v=hn_YqhNJc5o)
 
 [How to Play Chess](https://www.youtube.com/watch?v=fKxG8KjH1Qg)
