@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chess Site</title>
+    <link href="styles/output.css" rel="stylesheet">
+</head>
+<body>
+<header>
+    <h1 class="text-sky-500 text-4xl p-4">Welcome to my Chess Page!</h1>
+</header>
+<article>
+    <h2 class="text-green-600 text-2xl p-2">Chess Table</h2>
+    <table>
+        <caption>
+            Piece Values
+        </caption>
+        <thead>
+        <tr>
+            <th scope="col">Piece</th>
+            <th scope="col">Value</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <th scope="row">Pawn</th>
+            <td>1</td>
+        </tr>
+        <tr>
+            <th scope="row">Knight</th>
+            <td>3</td>
+        </tr>
+        <tr>
+            <th scope="row">Bishop</th>
+            <td>3</td>
+        </tr>
+        <tr>
+            <th scope="row">Rook</th>
+            <td>5</td>
+        </tr>
+        <tr>
+            <th scope="row">Queen</th>
+            <td>9</td>
+        </tr>
+        <tr>
+            <th scope="row">King</th>
+            <td>&infin;</td>
+        </tr>
+        </tbody>
+    </table>
+    <h2 class="text-green-600 text-2xl p-2">Best Chess Players</h2>
+    <ol type="I">
+        <li>Magnus Carlsen</li>
+        <li>Bobby Fischer</li>
+        <li>Paul Morphy</li>
+    </ol>
+    <h2 class="text-green-600 text-2xl p-2">Chess Quote</h2>
+    <p>When you see a <strong>good</strong> move, look for a <em>better</em> one.</p>
+    <h2 class="text-green-600 text-2xl p-2">4-way Chess</h2>
+    <img src="../images/large-4-player-chess-set-28269543718999_1024x1024.webp" width="400" alt="4-way Chess">
+    <h2 class="text-green-600 text-2xl p-2">Register for the chess newsletter</h2>
+    <form>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email"><br><br>
+        <label for="piece">Favorite piece:</label>
+        <select id="piece" name="piece">
+            <option value="" selected>Select a piece</option>
+            <option value="Pawn">Pawn</option>
+            <option value="Knight">Knight</option>
+            <option value="Bishop">Bishop</option>
+            <option value="Queen">Queen</option>
+            <option value="King">King</option>
+        </select><br><br>
+        <button type="submit">Submit</button>
+    </form>
+    <h2 class="text-green-600 text-2xl p-2">Chess Quote 2</h2>
+    <details>
+        <summary style="color: darkgreen">In order to improve your game,</summary>
+        <p style="color: darkred">you must study the endgame before everything else.</p>
+    </details>
+    <h2 class="text-green-600 text-2xl p-2">Chess 2 Development Progress Bar</h2>
+    <progress value="70" max="100"></progress>
+    <h2 class="text-green-600 text-2xl p-2">Chess Piece Pages</h2>
+    <img src="../images/JaquesCookStaunton.jpg" width="400" alt="Chess Pieces" usemap="#chess-piece-pages">
+    <map name="chess-piece-pages">
+        <area
+                shape="rect"
+                coords="0, 0, 66, 181"
+                href="https://en.wikipedia.org/wiki/Pawn_%28chess%29"
+                target="_blank"
+                alt="Pawn" />
+        <area
+                shape="rect"
+                coords="66, 0, 133, 181"
+                href="https://en.wikipedia.org/wiki/Rook_(chess)"
+                target="_blank"
+                alt="Rook" />
+        <area
+                shape="rect"
+                coords="133, 0, 199, 181"
+                href="https://en.wikipedia.org/wiki/Knight_(chess)"
+                target="_blank"
+                alt="Knight" />
+        <area
+                shape="rect"
+                coords="199, 0, 266, 181"
+                href="https://en.wikipedia.org/wiki/Bishop_(chess)"
+                target="_blank"
+                alt="Bishop" />
+        <area
+                shape="rect"
+                coords="266, 0, 332, 181"
+                href="https://en.wikipedia.org/wiki/Queen_(chess)"
+                target="_blank"
+                alt="Queen" />
+        <area
+                shape="rect"
+                coords="332, 0, 400, 181"
+                href="https://en.wikipedia.org/wiki/King_(chess)"
+                target="_blank"
+                alt="King" />
+
+    </map>
+    <a class="text-blue-700 text-2xl p-2" href="openings/opening_list.md">Chess Openings</a>
+</article>
+<footer>
+    <p>Chess Site &copy; 2024</p>
+</footer>
+</body>
+</html>
