@@ -1,7 +1,5 @@
 ﻿# King’s Gambit Tutorials
 
----
-
 [Chess Openings: How to Play the King's Gambit](https://www.youtube.com/watch?v=Of44HLmqRgI)
 
 [Chess Openings- The King's Gambit](https://www.youtube.com/watch?v=n5ImJ2row6E)

@@ -1,7 +1,5 @@
 ﻿# Sicilian Defense Tutorials
 
----
-
 [The Sicilian Defense \| Chess Opening Tutorial](https://www.youtube.com/watch?v=4Xpk9VIHX0s)
 
 [Chess Openings: How to Play the Sicilian Defense](https://www.youtube.com/watch?v=M9nqKf-0I8c)

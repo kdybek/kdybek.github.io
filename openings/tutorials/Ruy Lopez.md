@@ -1,7 +1,5 @@
 ﻿# Ruy Lopez Tutorials
 
----
-
 [Learn the Ruy Lopez and Relax ♔ Chess Opening Tutorial ♔ ASMR](https://www.youtube.com/watch?v=5N2IX72pYPs)
 
 [MAGNUS shows how to play the RUY LOPEZ opening](https://www.youtube.com/watch?v=GN7lp9V0szA)

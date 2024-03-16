@@ -1,7 +1,5 @@
 ﻿# Portuguese Gambit Tutorials
 
----
-
 [What is the Portuguese Gambit?](https://www.youtube.com/watch?v=wTDy92HpHYo)
 
 [Portuguese Gambit - Chess Opening](https://www.youtube.com/watch?v=KW5sdQlCfks)

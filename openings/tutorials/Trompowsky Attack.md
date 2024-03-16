@@ -1,7 +1,5 @@
 ﻿# Trompowsky Attack Tutorials
 
----
-
 [Introduction to the Trompowsky Attack · Plans, Ideas, Structures and Common Variations](https://www.youtube.com/watch?v=2fQdICXQvks)
 
 [Chess Openings: Learn to Play the Trompowsky Attack!](https://www.youtube.com/watch?v=5UfMTaMzPaQ)

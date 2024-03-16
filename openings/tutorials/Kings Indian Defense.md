@@ -1,7 +1,5 @@
 ﻿# Kings Indian Defense Tutorials
 
----
-
 [The King's Indian Defense: Step by Step \| Chess Lesson \# 85](https://www.youtube.com/watch?v=bCmsHfrcBBc)
 
 [Learn the King's Indian Defense for Black \| Best Chess Opening Strategy, Tricks, Plans & Ideas](https://www.youtube.com/watch?v=p3RMUzoEBo4)

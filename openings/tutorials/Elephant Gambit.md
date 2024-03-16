@@ -1,7 +1,5 @@
 ﻿# Elephant Gambit Tutorials
 
----
-
 [Chess Openings: Learn to Play the Elephant Gambit!](https://www.youtube.com/watch?v=W6aWEFLzJDQ)
 
 [Chess Openings: Learn How to ATTACK with the Elephant Gambit!](https://www.youtube.com/watch?v=mNCuoBqqklw)

@@ -1,7 +1,5 @@
 ﻿# Muzio Gambit Tutorials
 
----
-
 [Chess Openings: Learn to Play the Muzio Gambit! King's Gambit Chess Opening Theory](https://www.youtube.com/watch?v=lA7cKTuI7Jk)
 
 [The Most Insane Gambit Explained in 3 Minutes \| The King's Gambit Double Muzio](https://www.youtube.com/watch?v=MiNKfPc3kzk)

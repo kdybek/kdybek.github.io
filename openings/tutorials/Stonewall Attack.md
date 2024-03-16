@@ -1,7 +1,5 @@
 ﻿# Stonewall Attack Tutorials
 
----
-
 [Learn the Stonewall Defense & Attack \| 10-Minute Chess Openings](https://www.youtube.com/watch?v=4_brAnORWGw)
 
 [Beginner Chess Openings - ⚔️ The Stonewall Attack - Greek Gift Sacrifice](https://www.youtube.com/watch?v=F8owlkaNFlI)

@@ -1,7 +1,5 @@
 ﻿# Petrov Defense Tutorials
 
----
-
 [Chess lesson \# 35: Petrov Defense \(Russian Defense\) \| Chess openings the right way](https://www.youtube.com/watch?v=ibGd3FJ8t1Y)
 
 [Chess Openings: Learn to Play the Petrov's Defense!](https://www.youtube.com/watch?v=dqw3pBmR8io)

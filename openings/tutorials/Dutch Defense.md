@@ -1,7 +1,5 @@
 ﻿# Dutch Defense Tutorials
 
----
-
 [Learn the Dutch Defense Setup \| 10-Minute Chess Openings](https://www.youtube.com/watch?v=ogmGNIk6W7I)
 
 [Mastering the Dutch Defense: A Beginner's Guide to the Classic Kingside Attack](https://www.youtube.com/watch?v=IFQDEhbbY2U)

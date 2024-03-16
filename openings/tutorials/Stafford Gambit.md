@@ -1,7 +1,5 @@
 ﻿# Stafford Gambit Tutorials
 
----
-
 [Stafford Gambit, Chess Traps To Win Fast And Easily.](https://www.youtube.com/watch?v=N7Rp9XDji-U)
 
 [STAFFORD GAMBIT Chess Tournament!](https://www.youtube.com/watch?v=aYfiH7VwK64)

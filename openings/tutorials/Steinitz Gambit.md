@@ -1,7 +1,5 @@
 ﻿# Steinitz Gambit Tutorials
 
----
-
 [The Greatest Vienna Gambit Player](https://www.youtube.com/watch?v=inal0wK-v28)
 
 [Chess Openings: Learn to Play the Ponziani Opening!](https://www.youtube.com/watch?v=VNxz6w0fmys)

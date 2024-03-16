@@ -1,7 +1,5 @@
 ﻿# Max Lange Attack Tutorials
 
----
-
 [How To WIN FAST with the MAX LANGE](https://www.youtube.com/watch?v=2KfFD0o67T4)
 
 [Dirty chess tricks 6 \(Max Lange Attack\)](https://www.youtube.com/watch?v=DMcDNVSXyd0)

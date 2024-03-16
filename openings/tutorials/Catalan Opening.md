@@ -1,7 +1,5 @@
 ﻿# Catalan Opening Tutorials
 
----
-
 [How to play the Catalan \| 10-Minute Chess Openings](https://www.youtube.com/watch?v=nMuvv1HksL4)
 
 [The Open Catalan Opening \| Basic Plans, Ideas & Strategies \| Chess Openings \| IM Andrey Ostrovskiy](https://www.youtube.com/watch?v=7f5IkAppG3M)

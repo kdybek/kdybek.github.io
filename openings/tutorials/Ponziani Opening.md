@@ -1,7 +1,5 @@
 ﻿# Ponziani Opening Tutorials
 
----
-
 [A Beginner Lesson in the Ponziani Opening](https://www.youtube.com/watch?v=tqZLFyZbfDk)
 
 [Ponziani Opening: Instructive Winning Strategy](https://www.youtube.com/watch?v=t9H2PUDMnEc)

@@ -1,7 +1,5 @@
 ﻿# Bishop’s Opening Tutorials
 
----
-
 [Learn the POWERFUL Bishop's Opening](https://www.youtube.com/watch?v=AAAYOFAwfTE)
 
 [Chess Openings: Learn to Play the Bishop's Opening!](https://www.youtube.com/watch?v=LD1iG4TBiEo)

@@ -1,7 +1,5 @@
 ﻿# Adelaide Counter Gambit Tutorials
 
----
-
 [Attacking Chess Gambit against King's Gambit \(Adelaide Counter Gambit - 1\)](https://www.youtube.com/watch?v=9DDMf8LPjdE)
 
 [Adelaide Counter Gambit - Kings Gambit Variation](https://www.youtube.com/watch?v=ikFbzsTH6rc)

@@ -1,7 +1,5 @@
 ﻿# List of Chess Openings
 
----
-
 ## Adelaide Counter Gambit
 
 ![Adelaide Counter Gambit](https://www.thechesswebsite.com/wp-content/uploads/2019/09/adelaide-counter-gambit.png)

@@ -1,7 +1,5 @@
 ﻿# The Alien Gambit Trap Tutorials
 
----
-
 [CRUSH the Alien Gambit \| Easiest Beginner Guide](https://www.youtube.com/watch?v=wxt3cmC1ruU)
 
 [Mastering The Alien Gambit 👽 \| Tips & Tricks](https://www.youtube.com/watch?v=R2k-5jChuLw)

@@ -1,7 +1,5 @@
 ﻿# Veresov Attack Tutorials
 
----
-
 [How to beat the Richter-Veresov Attack Easily](https://www.youtube.com/watch?v=5kbkuQgqnL4)
 
 [The Veresov Attack - Chess Openings with GM Damian Lemos](https://www.youtube.com/watch?v=Gocpzyh7cas)

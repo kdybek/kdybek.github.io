@@ -1,7 +1,5 @@
 ﻿# Locock Gambit Tutorials
 
----
-
 [I Can't Stop Beating Everyone With Gambits](https://www.youtube.com/watch?v=XCANsOz-cT0)
 
 [Beating EVERYONE with Gambits \(including a cheater\)](https://www.youtube.com/watch?v=DAzCPLo0HWo)

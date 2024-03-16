@@ -1,7 +1,5 @@
 ﻿# Rousseau Gambit Tutorials
 
----
-
 [Rousseau Gambit Opening TRAPS \| Insane Chess Tricks to WIN Fast](https://www.youtube.com/watch?v=ATAaIYUDQ7E)
 
 [Best Chess Opening Against 1.e4 Refuted? \[Rousseau Gambit Declined\]](https://www.youtube.com/watch?v=5rsKiFhpdqI)

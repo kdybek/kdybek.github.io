@@ -1,7 +1,5 @@
 ﻿# Black Knights Tango Tutorials
 
----
-
 [Chess Openings: Learn to Play the Black Knights' Tango!](https://www.youtube.com/watch?v=kbCN8Bw_Vf4)
 
 [The Black Knights' Tango - Chess Openings Explained](https://www.youtube.com/watch?v=Bgs2Vrr6OAY)

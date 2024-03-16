@@ -1,7 +1,5 @@
 ﻿# Hungarian Defense Tutorials
 
----
-
 [Basic Opening Chess Trap \| The Hungarian Defense \| When the hunter is hunted!](https://www.youtube.com/watch?v=YUjk3qQXRJg)
 
 [Hungarian Defense \| Italian game Theory](https://www.youtube.com/watch?v=vE5bmrB0raM)

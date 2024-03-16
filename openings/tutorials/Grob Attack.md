@@ -1,7 +1,5 @@
 ﻿# Grob Attack Tutorials
 
----
-
 [How to play the Grob Attack \| Chess Opening \| IM Andrey Ostrovskiy](https://www.youtube.com/watch?v=LbrZnV38VMY)
 
 [Basic Opening Chess Trap \| The Grob's Attack with 1.g4!?](https://www.youtube.com/watch?v=P50bZVY0fR8)

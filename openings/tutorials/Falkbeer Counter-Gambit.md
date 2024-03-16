@@ -1,7 +1,5 @@
 ﻿# Falkbeer Counter-Gambit Tutorials
 
----
-
 [Crush The King's Gambit \| Falkbeer Counter-Gambit](https://www.youtube.com/watch?v=nQABdntJEpQ)
 
 [Bizarre Opening Trap: Falkbeer Countergambit](https://www.youtube.com/watch?v=zVjTJcdN13A)

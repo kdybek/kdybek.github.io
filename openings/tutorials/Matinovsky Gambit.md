@@ -1,7 +1,5 @@
 ﻿# Matinovsky Gambit Tutorials
 
----
-
 [Learn the Matinovsky Gambit in 5 Minutes!!!](https://www.youtube.com/watch?v=wtZdWdtnhkY)
 
 [Dirty chess tricks 1 \(Matinovsky Gambit\)](https://www.youtube.com/watch?v=n-RcBVaxqHo)

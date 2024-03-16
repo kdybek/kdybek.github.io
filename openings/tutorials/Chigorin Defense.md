@@ -1,7 +1,5 @@
 ﻿# Chigorin Defense Tutorials
 
----
-
 [Chess Openings: Learn to Play the Chigorin Defense!](https://www.youtube.com/watch?v=CYxb9Mms2cQ)
 
 [Introduction to the Chigorin Defense](https://www.youtube.com/watch?v=CASr3pqMjYk)

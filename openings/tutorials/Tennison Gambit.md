@@ -1,7 +1,5 @@
 ﻿# Tennison Gambit Tutorials
 
----
-
 [Chess Opening Tricks: Tennison Gambit - Capture Queen in 4 Moves](https://www.youtube.com/watch?v=6OEx_H693f8)
 
 [Chess Openings: Tennison Gambit](https://www.youtube.com/watch?v=Ejv7e4gf7cQ)

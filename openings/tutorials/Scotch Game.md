@@ -1,7 +1,5 @@
 ﻿# Scotch Game Tutorials
 
----
-
 [Chess Openings: How to Play the Scotch Game!](https://www.youtube.com/watch?v=zsTCPOVnSf4)
 
 [Chess Openings- Scotch Game](https://www.youtube.com/watch?v=O_k2aP4WLIE)

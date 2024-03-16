@@ -1,7 +1,5 @@
 ﻿# Four Knights Game Tutorials
 
----
-
 [Four Knights Game - Chess Openings Explained](https://www.youtube.com/watch?v=432VtltHVaA)
 
 [Four Knights Game - A Short, Simple Repertoire for Black](https://www.youtube.com/watch?v=hKUTmN0ruYE)

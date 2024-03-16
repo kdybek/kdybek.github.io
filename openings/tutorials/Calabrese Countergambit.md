@@ -1,7 +1,5 @@
 ﻿# Calabrese Countergambit Tutorials
 
----
-
 [Chess Openings - Calabrese Countergambit](https://www.youtube.com/watch?v=iGqWsB9RV_o)
 
 [Beginners' Openings and Tactics - GM Varuzhan Akobian - 2013.01.13](https://www.youtube.com/watch?v=xh4sO1ICS_Q)

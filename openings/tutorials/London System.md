@@ -1,7 +1,5 @@
 ﻿# London System Tutorials
 
----
-
 [Learn the London System \| 10-Minute Chess Openings](https://www.youtube.com/watch?v=49H728S_VjM)
 
 [How to WIN with the London System!](https://www.youtube.com/watch?v=ECMMct_jnEM)

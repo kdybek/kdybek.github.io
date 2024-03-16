@@ -1,7 +1,5 @@
 ﻿# Benoni Defense Tutorials
 
----
-
 [Benoni defense - a quick tutorial](https://www.youtube.com/watch?v=gAeaVoToVtk)
 
 [Chess Openings: Learn to Play the Benoni Defense!](https://www.youtube.com/watch?v=ORXT1ej2tqg)

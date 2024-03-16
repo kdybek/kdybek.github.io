@@ -1,7 +1,5 @@
 ﻿# Nakhmanson Gambit Tutorials
 
----
-
 [Learn the Evans and Nakhmanson Gambit \| 10-Minute Chess Openings](https://www.youtube.com/watch?v=fG52OQytDxc)
 
 [Nakhmanson Gambit: Chess Opening Traps To WIN FAST \| Best Moves, Tricks, Tactics, Strategy & Ideas](https://www.youtube.com/watch?v=F6m8vezHewU)

@@ -1,7 +1,5 @@
 ﻿# Wayward Queen Attack Tutorials
 
----
-
 [Wayward Queen Attack](https://www.youtube.com/watch?v=yfAG7n-ny2k)
 
 [The Wayward Queen Attack: How to play it + defend against it!](https://www.youtube.com/watch?v=IBre1zK6FG8)

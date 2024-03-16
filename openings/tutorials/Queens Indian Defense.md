@@ -1,7 +1,5 @@
 ﻿# Queens Indian Defense Tutorials
 
----
-
 [Introduction to the Queen's Indian Defense · Chess Openings](https://www.youtube.com/watch?v=9Jt3AypZ59c)
 
 [Chess Openings: How to Play the Queen's Indian!](https://www.youtube.com/watch?v=tiDCW-NO848)

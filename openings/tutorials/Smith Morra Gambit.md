@@ -1,7 +1,5 @@
 ﻿# Smith Morra Gambit Tutorials
 
----
-
 [The Ultimate Guide To The Smith Morra Gambit](https://www.youtube.com/watch?v=HTDIR4tSqsk)
 
 [How To Crush The Sicilian With The Smith Morra Gambit in 3 Minutes](https://www.youtube.com/watch?v=gM7-ipi3LDs)

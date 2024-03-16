@@ -1,7 +1,5 @@
 ﻿# Grunfeld Defense Tutorials
 
----
-
 [Chess Openings: Learn to Play the Grunfeld Defense!](https://www.youtube.com/watch?v=n7wI5Z--G0Q)
 
 [Introduction to the Grünfeld Defense](https://www.youtube.com/watch?v=NnkMyb1ThXc)

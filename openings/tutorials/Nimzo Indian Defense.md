@@ -1,7 +1,5 @@
 ﻿# Nimzo Indian Defense Tutorials
 
----
-
 [Introduction to the Nimzo-Indian Defense](https://www.youtube.com/watch?v=xX_bnk7nKNg)
 
 [How to Play The Nimzo Indian \| Step by Step!!](https://www.youtube.com/watch?v=ZHzl8RpUyRo)

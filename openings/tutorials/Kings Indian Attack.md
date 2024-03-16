@@ -1,7 +1,5 @@
 ﻿# Kings Indian Attack Tutorials
 
----
-
 [Chess Lesson \# 79: King's Indian Attack \| Chess Openings The Right Way](https://www.youtube.com/watch?v=iaXd4jntUF0)
 
 [Learn the King's Indian Setup \| 10-Minute Chess Openings](https://www.youtube.com/watch?v=kK0cq6UBt1Y)

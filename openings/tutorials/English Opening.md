@@ -1,7 +1,5 @@
 ﻿# English Opening Tutorials
 
----
-
 [The English Opening - Chess Openings Explained](https://www.youtube.com/watch?v=_SE4lLEo2Rs)
 
 [How to play the English Opening \| 10-Minute Chess Openings](https://www.youtube.com/watch?v=va0s92praEM)

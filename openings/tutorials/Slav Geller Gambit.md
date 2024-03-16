@@ -1,7 +1,5 @@
 ﻿# Slav Geller Gambit Tutorials
 
----
-
 [Slav Geller Gambit - Chess Opening](https://www.youtube.com/watch?v=8G9s8t0_DCg)
 
 [Smash the Slav Defense with the Geller Gambit \| Chess Opening Blueprint](https://www.youtube.com/watch?v=raXWercdp6c)

@@ -1,7 +1,5 @@
 ﻿# French Defense Tutorials
 
----
-
 [Learn the French Defense \| 10-Minute Chess Openings](https://www.youtube.com/watch?v=5pec-u6PSvA)
 
 [The French Defense \| Chess Opening Tutorial](https://www.youtube.com/watch?v=FWHmExgllRo)

@@ -1,7 +1,5 @@
 ﻿# Evans Gambit Tutorials
 
----
-
 [Learn the Evans and Nakhmanson Gambit \| 10-Minute Chess Openings](https://www.youtube.com/watch?v=fG52OQytDxc)
 
 [Learn The Ultimate Chess Opening \|\| The Evans Gambit!](https://www.youtube.com/watch?v=CUQQ4dym5ZU)

@@ -1,7 +1,5 @@
 ﻿# Albin Counter-Gambit Tutorials
 
----
-
 [Master the Brutal Albin Counter-Gambit - Chess Opening Guide](https://www.youtube.com/watch?v=4TbXYs5bUDo)
 
 [How to Easily Defeat The Albin Counter Gambit!!](https://www.youtube.com/watch?v=w1gAUm_1u-M)

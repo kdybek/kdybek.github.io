@@ -1,7 +1,5 @@
 ﻿# Apocalypse Attack Tutorials
 
----
-
 [How to play Apocalypse Chess](https://www.youtube.com/watch?v=Hyft7UQsQRM)
 
 [Quick Guide to the Caro-Kann Defense! \|\| Apocalypse Attack Variation](https://www.youtube.com/watch?v=1_UZntlMAY8)

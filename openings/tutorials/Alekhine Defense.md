@@ -1,7 +1,5 @@
 ﻿# Alekhine Defense Tutorials
 
----
-
 [The Alekhine Defense \| Chess Opening Tutorial](https://www.youtube.com/watch?v=IFBT9I9JhUs)
 
 [Learn Alekhine's Defence \(Theory, Traps & Ideas\)](https://www.youtube.com/watch?v=AnexVs5_Gl0)

@@ -1,7 +1,5 @@
 ﻿# Staunton Gambit Accepted Tutorials
 
----
-
 [A Beginner Lesson In The Staunton Gambit](https://www.youtube.com/watch?v=1jZBjjiQtVk)
 
 [Staunton Gambit · Chess Openings](https://www.youtube.com/watch?v=zoATbKixNPg)

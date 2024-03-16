@@ -1,7 +1,5 @@
 ﻿# Baltic Defense Tutorials
 
----
-
 [Use this Method to DESTROY the BALTIC Defense! - D06 👑 's Gambit Declined, Baltic Defense - Part 2](https://www.youtube.com/watch?v=nbrHmZAtLdg)
 
 [Chess Openings - Baltic Defense](https://www.youtube.com/watch?v=Q5ECmHUyMzk)

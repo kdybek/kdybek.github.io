@@ -1,7 +1,5 @@
 ﻿# Bowlder Attack Tutorials
 
----
-
 [Destroy Everyone in 7 Moves With My Improved Bowdler Attack 👁️👁️](https://www.youtube.com/watch?v=0P75sblxKC8)
 
 [Bowdler Attack in Sicilian Defense \(Chess Openings\)](https://www.youtube.com/watch?v=vB0LxoEXNW4)

@@ -1,7 +1,5 @@
 ﻿# Fajarowicz Gambit Tutorials
 
----
-
 [Win FAST with the Fajarowicz Gambit](https://www.youtube.com/watch?v=7QNPWtVKaNg)
 
 [Chess Tips: Fajarowicz Gambit - A little-known Tactical Powerhouse to Dominate 1.d4](https://www.youtube.com/watch?v=5mAYE7jnEhg)

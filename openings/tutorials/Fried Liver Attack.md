@@ -1,7 +1,5 @@
 ﻿# Fried Liver Attack Tutorials
 
----
-
 [How To Win As Black Against The Fried Liver Attack!](https://www.youtube.com/watch?v=n0fjLO8qxps)
 
 [Fried Liver Attack \| Chess Openings](https://www.youtube.com/watch?v=VVI1nHnP5Zg)

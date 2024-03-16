@@ -1,7 +1,5 @@
 ﻿# Nimzowitsch Defense Tutorials
 
----
-
 [Understand the Nimzowitsch Defense \(Chess Opening Guide\)](https://www.youtube.com/watch?v=F-3jXIRNd6Y)
 
 [How to beat a beginner with Nimzowitsch Defense \| Chess openings](https://www.youtube.com/watch?v=LNfM9ikga7E)

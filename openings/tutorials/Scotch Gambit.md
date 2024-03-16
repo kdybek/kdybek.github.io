@@ -1,7 +1,5 @@
 ﻿# Scotch Gambit Tutorials
 
----
-
 [Chess Openings: How To Play The Scotch Gambit - Quickstarter Jedi Guide](https://www.youtube.com/watch?v=00hM8NR2B_g)
 
 [Scotch Gambit chess tutorial](https://www.youtube.com/watch?v=BCc28991o-o)

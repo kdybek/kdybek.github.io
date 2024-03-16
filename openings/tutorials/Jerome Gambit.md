@@ -1,7 +1,5 @@
 ﻿# Jerome Gambit Tutorials
 
----
-
 [How Good are Unsound Gambits? A Discussion on the Nakhmanson, Jerome, & More!](https://www.youtube.com/watch?v=ipqUv-EX26w)
 
 [How To Destroy Black in 3 Minutes \| The Jerome Gambit](https://www.youtube.com/watch?v=Y9jnsoWjY1Q)

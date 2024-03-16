@@ -1,7 +1,5 @@
 ﻿# Halloween Gambit Tutorials
 
----
-
 [HALLOWEEN GAMBIT \| My First Chess Game of October 2020](https://www.youtube.com/watch?v=ZXfYnnhTd8o)
 
 [Chess Openings- The King's Gambit](https://www.youtube.com/watch?v=n5ImJ2row6E)

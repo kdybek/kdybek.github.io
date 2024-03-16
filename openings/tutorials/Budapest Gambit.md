@@ -1,7 +1,5 @@
 ﻿# Budapest Gambit Tutorials
 
----
-
 [The Budapest Gambit \| Chess Openings Explained](https://www.youtube.com/watch?v=DVUCnIi7CGA)
 
 [Simple and Deadly Traps in the Budapest Gambit](https://www.youtube.com/watch?v=G8fAtO7-prw)

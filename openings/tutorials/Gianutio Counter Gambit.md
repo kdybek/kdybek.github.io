@@ -1,7 +1,5 @@
 ﻿# Gianutio Counter Gambit Tutorials
 
----
-
 [Tennison Gambit Intercontinental Ballistic Missile Variation](https://www.youtube.com/watch?v=E2xNlzsnPCQ)
 
 [How To Play The Queen's Gambit](https://www.youtube.com/watch?v=mtsabsZ4wG4)

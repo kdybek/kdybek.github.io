@@ -1,7 +1,5 @@
 ﻿# Bird’s Opening Tutorials
 
----
-
 [Chess Openings- Birds Opening](https://www.youtube.com/watch?v=lg4GX8C_grY)
 
 [Chess Openings: A Quick Introduction to the Bird's Opening!](https://www.youtube.com/watch?v=J5qNc20njV4)

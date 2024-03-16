@@ -1,7 +1,5 @@
 ﻿# Lolli Attack Tutorials
 
----
-
 [Bobby Fischer's Legendary Lolli Attack](https://www.youtube.com/watch?v=--iF8rE7McE)
 
 [Chess Openings: Learn to Play the Lolli Attack!](https://www.youtube.com/watch?v=XVD1wE6zf_c)

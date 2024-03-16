@@ -1,7 +1,5 @@
 ﻿# Reti Gambit Tutorials
 
----
-
 [Chess Openings: Learn to Play the Reti Opening / Reti Gambit!](https://www.youtube.com/watch?v=R1fFb-1QUX8)
 
 [Chess Openings: Learn to Play the Reti Gambit Against the French Defense!](https://www.youtube.com/watch?v=X6quKAZbkuk)

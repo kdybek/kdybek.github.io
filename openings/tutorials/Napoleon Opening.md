@@ -1,7 +1,5 @@
 ﻿# Napoleon Opening Tutorials
 
----
-
 [Chess Opening Book Napoleon's Opening](https://www.youtube.com/watch?v=NWLjvKuQhaE)
 
 [Napoleon Bonaparte INVENTED A Chess Opening!](https://www.youtube.com/watch?v=0ne7vUSkJz8)

@@ -1,7 +1,5 @@
 ﻿# Blackmar-Diemer Gambit Tutorials
 
----
-
 [The Blackmar-Diemer Gambit · Chess Openings](https://www.youtube.com/watch?v=4IwxHPouUJQ)
 
 [Chess Openings: Learn to Play the Blackmar-Diemer Gambit!](https://www.youtube.com/watch?v=GCDHZQlMAWE)

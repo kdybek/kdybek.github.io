@@ -1,7 +1,5 @@
 ﻿# Philidor Defense Tutorials
 
----
-
 [How to BEAT the Philidor Defense](https://www.youtube.com/watch?v=nS2vhQR-8wQ)
 
 [How to Play the Philidor Defense \|\| Lion Defense Structures \|\| Chess Openings for Black](https://www.youtube.com/watch?v=bZl0phd70l4)

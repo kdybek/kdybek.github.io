@@ -1,7 +1,5 @@
 ﻿# Schliemann Gambit Tutorials
 
----
-
 [The Schliemann Gambit Part 1 Introduction! Chess Videos Chesscom](https://www.youtube.com/watch?v=ZElnhIm-TQw)
 
 [\[INTRO\] Learn the Schliemann Defense: Fight the Ruy Lopez as black!](https://www.youtube.com/watch?v=QJULT4tyq2I)

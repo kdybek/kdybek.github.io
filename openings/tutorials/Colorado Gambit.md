@@ -1,7 +1,5 @@
 ﻿# Colorado Gambit Tutorials
 
----
-
 [Learn This Amazing Colorado Gambit in 10 Minutes 💡](https://www.youtube.com/watch?v=IqYoNLRK7R8)
 
 [Aggressive Chess \(Colorado Gambit\)](https://www.youtube.com/watch?v=kWXkutY3foM)

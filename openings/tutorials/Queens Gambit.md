@@ -1,7 +1,5 @@
 ﻿# Queens Gambit Tutorials
 
----
-
 [How To Play The Queen's Gambit](https://www.youtube.com/watch?v=mtsabsZ4wG4)
 
 [Chess Openings: The Queen's Gambit](https://www.youtube.com/watch?v=HdHWAuQRG7E)

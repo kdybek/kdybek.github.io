@@ -31,7 +31,6 @@ def scrape_chess_openings(url):
 def create_main_page_markdown(opening_names, opening_images, filename):
     with open(filename, 'w', encoding='utf-8-sig') as f:
         f.write('# List of Chess Openings\n\n')
-        f.write('---\n\n')
         for name, image_url in zip(opening_names, opening_images):
             f.write(f'## {name}\n\n')
             f.write(f'![{name}]({image_url})\n\n')
@@ -75,7 +74,6 @@ def find_videos(opening):
 def create_page_with_tutorials_markdown(opening):
     with open(f'tutorials/{opening}.md', 'w', encoding='utf-8-sig') as f:
         f.write(f'# {opening} Tutorials\n\n')
-        f.write('---\n\n')
 
         links, titles = find_videos(opening)
 

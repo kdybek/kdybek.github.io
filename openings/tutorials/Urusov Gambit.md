@@ -1,7 +1,5 @@
 ﻿# Urusov Gambit Tutorials
 
----
-
 [The Unbeatable Urusov Gambit - Chess Openings Explained](https://www.youtube.com/watch?v=dxUuueHFfFs)
 
 [How to Play Urusov Gambit \(Tricky Weapon\) \| Chess Opening Traps and Tricks](https://www.youtube.com/watch?v=onxES9YuBig)

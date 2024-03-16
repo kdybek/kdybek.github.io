@@ -1,7 +1,5 @@
 ﻿# Mieses Opening Tutorials
 
----
-
 [The Mieses Opening](https://www.youtube.com/watch?v=b-qOS2PfcbM)
 
 [How To Learn & Study Chess Openings](https://www.youtube.com/watch?v=6IegDENuxU4)

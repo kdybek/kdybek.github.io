@@ -1,7 +1,5 @@
 ﻿# Pirc Defense Tutorials
 
----
-
 [Learn the Pirc Defense as Black \| My Best Opening for Black \| Chess Lesson \# 69](https://www.youtube.com/watch?v=pEQdCWwH-YU)
 
 [Chess lesson \# 51: Best Opening for Black \| Chess openings the right way \| The Czech Pirc Defense](https://www.youtube.com/watch?v=soHgoqfsh8Q)

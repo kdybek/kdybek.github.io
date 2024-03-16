@@ -1,7 +1,5 @@
 ﻿# Cochrane Gambit Tutorials
 
----
-
 [Chess openings: Cochrane gambit](https://www.youtube.com/watch?v=4dpblBKHFXA)
 
 [Get Cocky with the Cochrane Gambit \| Chess Openings Explained](https://www.youtube.com/watch?v=Y6fEV6pIbNY)

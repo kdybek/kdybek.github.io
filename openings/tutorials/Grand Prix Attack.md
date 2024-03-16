@@ -1,7 +1,5 @@
 ﻿# Grand Prix Attack Tutorials
 
----
-
 [How to WIN with the Grand Prix Attack!](https://www.youtube.com/watch?v=o3NPgdOSGck)
 
 [Chess Openings: Learn to Play the Grand Prix Attack!](https://www.youtube.com/watch?v=-ntqH1wrKZ4)
