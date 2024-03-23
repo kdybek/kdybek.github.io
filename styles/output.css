@@ -661,6 +661,10 @@ video {
   isolation: auto;
 }
 
+.col-span-2 {
+  grid-column: span 2 / span 2;
+}
+
 .float-start {
   float: inline-start;
 }
@@ -712,14 +716,6 @@ video {
 
 .mt-2 {
   margin-top: 0.5rem;
-}
-
-.mt-10 {
-  margin-top: 2.5rem;
-}
-
-.mb-10 {
-  margin-bottom: 2.5rem;
 }
 
 .box-border {
@@ -825,6 +821,10 @@ video {
   height: 10rem;
 }
 
+.h-screen {
+  height: 100vh;
+}
+
 .w-16 {
   width: 4rem;
 }
@@ -847,6 +847,14 @@ video {
 
 .w-\[weird-and-invalid\] {
   width: weird-and-invalid;
+}
+
+.w-1\/4 {
+  width: 25%;
+}
+
+.w-3\/4 {
+  width: 75%;
 }
 
 .flex-auto {
@@ -1202,6 +1210,38 @@ video {
   grid-auto-flow: column dense;
 }
 
+.grid-cols-3 {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.grid-cols-4 {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.grid-rows-3 {
+  grid-template-rows: repeat(3, minmax(0, 1fr));
+}
+
+.grid-rows-2 {
+  grid-template-rows: repeat(2, minmax(0, 1fr));
+}
+
+.grid-rows-10 {
+  grid-template-rows: repeat(10, minmax(0, 1fr));
+}
+
+.grid-rows-\[1fr\2c 2fr\2c 1fr\] {
+  grid-template-rows: 1fr 2fr 1fr;
+}
+
+.grid-rows-\[1fr\2c 40fr\2c 1fr\] {
+  grid-template-rows: 1fr 40fr 1fr;
+}
+
+.grid-rows-\[2fr\2c 80fr\2c 1fr\] {
+  grid-template-rows: 2fr 80fr 1fr;
+}
+
 .flex-row {
   flex-direction: row;
 }
@@ -1384,6 +1424,10 @@ video {
 
 .justify-items-stretch {
   justify-items: stretch;
+}
+
+.gap-4 {
+  gap: 1rem;
 }
 
 .space-x-2 > :not([hidden]) ~ :not([hidden]) {
@@ -1861,9 +1905,24 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
-.bg-yellow-300 {
+.bg-gray-800 {
   --tw-bg-opacity: 1;
-  background-color: rgb(253 224 71 / var(--tw-bg-opacity));
+  background-color: rgb(31 41 55 / var(--tw-bg-opacity));
+}
+
+.bg-yellow-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(254 249 195 / var(--tw-bg-opacity));
+}
+
+.bg-zinc-400 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(161 161 170 / var(--tw-bg-opacity));
+}
+
+.bg-zinc-200 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(228 228 231 / var(--tw-bg-opacity));
 }
 
 .decoration-slice {
@@ -1951,28 +2010,8 @@ video {
   background-origin: content-box;
 }
 
-.fill-amber-400 {
-  fill: #fbbf24;
-}
-
-.fill-cyan-500 {
-  fill: #06b6d4;
-}
-
-.fill-amber-500 {
-  fill: #f59e0b;
-}
-
-.fill-yellow-500 {
-  fill: #eab308;
-}
-
 .fill-yellow-300 {
   fill: #fde047;
-}
-
-.fill-amber-200 {
-  fill: #fde68a;
 }
 
 .stroke-black {

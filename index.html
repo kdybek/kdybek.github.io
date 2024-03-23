@@ -6,155 +6,168 @@
     <title>Chess Site</title>
     <link href="styles/output.css" rel="stylesheet">
 </head>
-<body>
+<body class="grid grid-rows-[2fr,80fr,1fr]">
 <header class="bg-indigo-500">
     <h1 class="text-red-700 text-center text-4xl p-4">Welcome to my Chess Page!</h1>
 </header>
-<article class="bg-teal-100">
-    <h2 class="text-green-600 text-2xl p-2">Chess Table</h2>
-    <table class="table-auto">
-        <thead>
-        <tr>
-            <th class="px-4 py-2" scope="col">Piece</th>
-            <th class="px-4 py-2" scope="col">Value</th>
-        </tr>
-        </thead>
-        <tbody>
-        <tr>
-            <td class="border px-4 py-2">Pawn</td>
-            <td class="border px-4 py-2">1</td>
-        </tr>
-        <tr>
-            <td class="border px-4 py-2">Knight</td>
-            <td class="border px-4 py-2">3</td>
-        </tr>
-        <tr>
-            <td class="border px-4 py-2">Bishop</td>
-            <td class="border px-4 py-2">3</td>
-        </tr>
-        <tr>
-            <td class="border px-4 py-2">Rook</td>
-            <td class="border px-4 py-2">5</td>
-        </tr>
-        <tr>
-            <td class="border px-4 py-2">Queen</td>
-            <td class="border px-4 py-2">9</td>
-        </tr>
-        <tr>
-            <td class="border px-4 py-2">King</td>
-            <td class="border px-4 py-2">&infin;</td>
-        </tr>
-        </tbody>
-    </table>
-    <h2 class="text-green-600 text-2xl p-2">Best Chess Players</h2>
-    <ol type="I">
-        <li>Magnus Carlsen</li>
-        <li>Bobby Fischer</li>
-        <li>Paul Morphy</li>
-    </ol>
-    <h2 class="text-green-600 text-2xl p-2">Chess Quote</h2>
-    <p>When you see a <strong>good</strong> move, look for a <em>better</em> one.</p>
-    <h2 class="text-green-600 text-2xl p-2">4-way Chess</h2>
-    <img class="shadow-xl" src="images/large-4-player-chess-set-28269543718999_1024x1024.webp" width="400" alt="4-way Chess">
-    <h2 class="text-green-600 text-2xl p-2">Register for the chess newsletter</h2>
-    <form>
-        <label for="email">Email:</label>
-        <input type="email" id="email" name="email"><br><br>
-        <label for="piece">Favorite piece:</label>
-        <select id="piece" name="piece">
-            <option value="" selected>Select a piece</option>
-            <option value="Pawn">Pawn</option>
-            <option value="Knight">Knight</option>
-            <option value="Bishop">Bishop</option>
-            <option value="Queen">Queen</option>
-            <option value="King">King</option>
-        </select><br><br>
-        <button class="animate-ping px-8" type="submit">Submit</button><br>
-    </form>
-    <h2 class="text-green-600 text-2xl p-2">Chess Quote 2</h2>
-    <details>
-        <summary style="color: darkgreen">In order to improve your game,</summary>
-        <p style="color: darkred">you must study the endgame before everything else.</p>
-    </details>
-    <h2 class="text-green-600 text-2xl p-2">Chess 2 Development Progress Bar</h2>
-    <progress value="70" max="100"></progress>
-    <h2 class="text-green-600 text-2xl p-2">Chess Piece Pages</h2>
-    <img class="shadow-xl" src="images/JaquesCookStaunton.jpg" width="400" alt="Chess Pieces" usemap="#chess-piece-pages">
-    <map name="chess-piece-pages">
-        <area
-                shape="rect"
-                coords="0, 0, 66, 181"
-                href="https://en.wikipedia.org/wiki/Pawn_%28chess%29"
-                target="_blank"
-                alt="Pawn" />
-        <area
-                shape="rect"
-                coords="66, 0, 133, 181"
-                href="https://en.wikipedia.org/wiki/Rook_(chess)"
-                target="_blank"
-                alt="Rook" />
-        <area
-                shape="rect"
-                coords="133, 0, 199, 181"
-                href="https://en.wikipedia.org/wiki/Knight_(chess)"
-                target="_blank"
-                alt="Knight" />
-        <area
-                shape="rect"
-                coords="199, 0, 266, 181"
-                href="https://en.wikipedia.org/wiki/Bishop_(chess)"
-                target="_blank"
-                alt="Bishop" />
-        <area
-                shape="rect"
-                coords="266, 0, 332, 181"
-                href="https://en.wikipedia.org/wiki/Queen_(chess)"
-                target="_blank"
-                alt="Queen" />
-        <area
-                shape="rect"
-                coords="332, 0, 400, 181"
-                href="https://en.wikipedia.org/wiki/King_(chess)"
-                target="_blank"
-                alt="King" />
+<div class="grid grid-cols-3">
+    <article class="col-span-2 bg-teal-100">
+        <h2 class="text-green-600 text-2xl p-2">Chess Table</h2>
+        <table class="table-auto">
+            <thead>
+            <tr>
+                <th class="px-4 py-2" scope="col">Piece</th>
+                <th class="px-4 py-2" scope="col">Value</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td class="border px-4 py-2">Pawn</td>
+                <td class="border px-4 py-2">1</td>
+            </tr>
+            <tr>
+                <td class="border px-4 py-2">Knight</td>
+                <td class="border px-4 py-2">3</td>
+            </tr>
+            <tr>
+                <td class="border px-4 py-2">Bishop</td>
+                <td class="border px-4 py-2">3</td>
+            </tr>
+            <tr>
+                <td class="border px-4 py-2">Rook</td>
+                <td class="border px-4 py-2">5</td>
+            </tr>
+            <tr>
+                <td class="border px-4 py-2">Queen</td>
+                <td class="border px-4 py-2">9</td>
+            </tr>
+            <tr>
+                <td class="border px-4 py-2">King</td>
+                <td class="border px-4 py-2">&infin;</td>
+            </tr>
+            </tbody>
+        </table>
+        <h2 class="text-green-600 text-2xl p-2">Best Chess Players</h2>
+        <ol type="I">
+            <li>Magnus Carlsen</li>
+            <li>Bobby Fischer</li>
+            <li>Paul Morphy</li>
+        </ol>
+        <h2 class="text-green-600 text-2xl p-2">Chess Quote</h2>
+        <p>When you see a <strong>good</strong> move, look for a <em>better</em> one.</p>
+        <h2 class="text-green-600 text-2xl p-2">4-way Chess</h2>
+        <img class="shadow-xl" src="images/large-4-player-chess-set-28269543718999_1024x1024.webp" width="400"
+             alt="4-way Chess">
+        <h2 class="text-green-600 text-2xl p-2">Register for the chess newsletter</h2>
+        <form>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email"><br><br>
+            <label for="piece">Favorite piece:</label>
+            <select id="piece" name="piece">
+                <option value="" selected>Select a piece</option>
+                <option value="Pawn">Pawn</option>
+                <option value="Knight">Knight</option>
+                <option value="Bishop">Bishop</option>
+                <option value="Queen">Queen</option>
+                <option value="King">King</option>
+            </select><br><br>
+            <button class="animate-ping px-8" type="submit">Submit</button>
+            <br>
+        </form>
+        <h2 class="text-green-600 text-2xl p-2">Chess Quote 2</h2>
+        <details>
+            <summary style="color: darkgreen">In order to improve your game,</summary>
+            <p style="color: darkred">you must study the endgame before everything else.</p>
+        </details>
+        <h2 class="text-green-600 text-2xl p-2">Chess 2 Development Progress Bar</h2>
+        <progress value="70" max="100"></progress>
+        <h2 class="text-green-600 text-2xl p-2">Chess Piece Pages</h2>
+        <img class="shadow-xl" src="images/JaquesCookStaunton.jpg" width="400" alt="Chess Pieces"
+             usemap="#chess-piece-pages">
+        <map name="chess-piece-pages">
+            <area
+                    shape="rect"
+                    coords="0, 0, 66, 181"
+                    href="https://en.wikipedia.org/wiki/Pawn_%28chess%29"
+                    target="_blank"
+                    alt="Pawn"/>
+            <area
+                    shape="rect"
+                    coords="66, 0, 133, 181"
+                    href="https://en.wikipedia.org/wiki/Rook_(chess)"
+                    target="_blank"
+                    alt="Rook"/>
+            <area
+                    shape="rect"
+                    coords="133, 0, 199, 181"
+                    href="https://en.wikipedia.org/wiki/Knight_(chess)"
+                    target="_blank"
+                    alt="Knight"/>
+            <area
+                    shape="rect"
+                    coords="199, 0, 266, 181"
+                    href="https://en.wikipedia.org/wiki/Bishop_(chess)"
+                    target="_blank"
+                    alt="Bishop"/>
+            <area
+                    shape="rect"
+                    coords="266, 0, 332, 181"
+                    href="https://en.wikipedia.org/wiki/Queen_(chess)"
+                    target="_blank"
+                    alt="Queen"/>
+            <area
+                    shape="rect"
+                    coords="332, 0, 400, 181"
+                    href="https://en.wikipedia.org/wiki/King_(chess)"
+                    target="_blank"
+                    alt="King"/>
 
-    </map>
-    <a class="text-blue-700 text-2xl p-2" href="openings/openings_main.html">Chess Openings</a>
-    <h2 class="text-green-600 text-2xl p-2">Flexible Chessboard</h2>
-    <div class="flex flex-row flex-wrap">
-        <div class="w-40 h-40 bg-white border-black border"></div>
-        <div class="w-40 h-40 bg-black border-black border"></div>
-        <div class="w-40 h-40 bg-white border-black border"></div>
-        <div class="w-40 h-40 bg-black border-black border"></div>
-        <div class="w-40 h-40 bg-white border-black border"></div>
-        <div class="w-40 h-40 bg-black border-black border"></div>
-        <div class="w-40 h-40 bg-white border-black border"></div>
-        <div class="w-40 h-40 bg-black border-black border"></div>
-    </div>
-    <h2 class="text-green-600 text-2xl p-2">1D Chess</h2>
-    <div class="flex flex-col">
-        <div class="w-40 h-40 bg-white border-black border"></div>
-        <div class="w-40 h-40 bg-black border-black border"></div>
-        <div class="w-40 h-40 bg-white border-black border"></div>
-        <div class="w-40 h-40 bg-black border-black border"></div>
-        <div class="w-40 h-40 bg-white border-black border"></div>
-        <div class="w-40 h-40 bg-black border-black border"></div>
-        <div class="w-40 h-40 bg-white border-black border"></div>
-        <div class="w-40 h-40 bg-black border-black border"></div>
-    </div>
-    <h2 class="text-green-600 text-2xl p-2">Uneven Chessboard</h2>
-    <div class="flex flex-row">
-        <div class="flex-auto w-32 h-40 bg-white border-black border"></div>
-        <div class="flex-auto w-16 h-40 bg-black border-black border"></div>
-        <div class="flex-none w-32 h-40 bg-white border-black border"></div>
-        <div class="flex-auto w-16 h-40 bg-black border-black border"></div>
-    </div><br>
-    <svg class="mx-auto" width="200" height="200" viewBox="-100 -100 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <polygon class="stroke-black stroke-1 fill-yellow-300" points="0,50 -59,81 -48,16 -95,-31 -30,-41 0,-100 30,-41 95,-31 48,16 59,81" />
-    </svg><br>
-</article>
+        </map>
+        <a class="text-blue-700 text-2xl p-2" href="openings/openings_main.html">Chess Openings</a>
+        <h2 class="text-green-600 text-2xl p-2">Flexible Chessboard</h2>
+        <div class="flex flex-row flex-wrap">
+            <div class="w-40 h-40 bg-white border-black border"></div>
+            <div class="w-40 h-40 bg-black border-black border"></div>
+            <div class="w-40 h-40 bg-white border-black border"></div>
+            <div class="w-40 h-40 bg-black border-black border"></div>
+            <div class="w-40 h-40 bg-white border-black border"></div>
+            <div class="w-40 h-40 bg-black border-black border"></div>
+            <div class="w-40 h-40 bg-white border-black border"></div>
+            <div class="w-40 h-40 bg-black border-black border"></div>
+        </div>
+        <h2 class="text-green-600 text-2xl p-2">1D Chess</h2>
+        <div class="flex flex-col">
+            <div class="w-40 h-40 bg-white border-black border"></div>
+            <div class="w-40 h-40 bg-black border-black border"></div>
+            <div class="w-40 h-40 bg-white border-black border"></div>
+            <div class="w-40 h-40 bg-black border-black border"></div>
+            <div class="w-40 h-40 bg-white border-black border"></div>
+            <div class="w-40 h-40 bg-black border-black border"></div>
+            <div class="w-40 h-40 bg-white border-black border"></div>
+            <div class="w-40 h-40 bg-black border-black border"></div>
+        </div>
+        <h2 class="text-green-600 text-2xl p-2">Uneven Chessboard</h2>
+        <div class="flex flex-row">
+            <div class="flex-auto w-32 h-40 bg-white border-black border"></div>
+            <div class="flex-auto w-16 h-40 bg-black border-black border"></div>
+            <div class="flex-none w-32 h-40 bg-white border-black border"></div>
+            <div class="flex-auto w-16 h-40 bg-black border-black border"></div>
+        </div>
+        <br>
+        <svg class="mx-auto" width="200" height="200" viewBox="-100 -100 200 200" fill="none"
+             xmlns="http://www.w3.org/2000/svg">
+            <polygon class="stroke-black stroke-1 fill-yellow-300"
+                     points="0,50 -59,81 -48,16 -95,-31 -30,-41 0,-100 30,-41 95,-31 48,16 59,81"/>
+        </svg>
+        <br>
+    </article>
+    <nav class="bg-zinc-200">
+        <h2 class="text-green-600 text-2xl p-2">Other Pages</h2>
+        <a class="text-blue-700 text-2xl p-2" href="openings/openings_main.html">Chess Openings</a>
+    </nav>
+</div>
 <footer class="bg-amber-200">
-    <p>Chess Site &copy; 2024</p>
+    <p>Chess Site&copy; 2024</p>
 </footer>
 </body>
 </html>
